@@ -1,0 +1,2223 @@
+,Territorio,ETA1,Value
+0,Piemonte,Y0,27785
+1,Valle d'Aosta / Vallée d'Aoste,Y0,835
+2,Liguria,Y0,8632
+3,Lombardia,Y0,72560
+4,Trentino Alto Adige / Südtirol,Y0,9468
+5,Provincia Autonoma Bolzano / Bozen,Y0,5225
+6,Provincia Autonoma Trento,Y0,4243
+7,Veneto,Y0,33275
+8,Friuli-Venezia Giulia,Y0,7450
+9,Emilia-Romagna,Y0,30914
+10,Toscana,Y0,23220
+11,Umbria,Y0,5488
+12,Marche,Y0,9582
+13,Lazio,Y0,38162
+14,Abruzzo,Y0,8372
+15,Molise,Y0,1888
+16,Campania,Y0,46010
+17,Puglia,Y0,27126
+18,Basilicata,Y0,3630
+19,Calabria,Y0,14177
+20,Sicilia,Y0,37683
+21,Sardegna,Y0,8717
+22,Provincia Autonoma Trento,Y1,4427
+23,Valle d'Aosta / Vallée d'Aoste,Y1,893
+24,Emilia-Romagna,Y1,32779
+25,Basilicata,Y1,3639
+26,Lombardia,Y1,76022
+27,Provincia Autonoma Bolzano / Bozen,Y1,5309
+28,Liguria,Y1,8971
+29,Marche,Y1,10140
+30,Sicilia,Y1,39459
+31,Sardegna,Y1,9211
+32,Calabria,Y1,14777
+33,Abruzzo,Y1,8810
+34,Lazio,Y1,42329
+35,Piemonte,Y1,28996
+36,Veneto,Y1,35392
+37,Trentino Alto Adige / Südtirol,Y1,9736
+38,Puglia,Y1,28416
+39,Friuli-Venezia Giulia,Y1,7802
+40,Toscana,Y1,24713
+41,Molise,Y1,1863
+42,Campania,Y1,47138
+43,Umbria,Y1,5699
+44,Valle d'Aosta / Vallée d'Aoste,Y2,888
+45,Emilia-Romagna,Y2,33739
+46,Sardegna,Y2,10006
+47,Basilicata,Y2,3898
+48,Trentino Alto Adige / Südtirol,Y2,10024
+49,Campania,Y2,49346
+50,Toscana,Y2,26112
+51,Marche,Y2,10706
+52,Umbria,Y2,5992
+53,Puglia,Y2,29647
+54,Molise,Y2,2079
+55,Sicilia,Y2,40502
+56,Abruzzo,Y2,9436
+57,Calabria,Y2,15345
+58,Friuli-Venezia Giulia,Y2,8229
+59,Veneto,Y2,36931
+60,Lazio,Y2,44307
+61,Provincia Autonoma Trento,Y2,4584
+62,Piemonte,Y2,30833
+63,Lombardia,Y2,79620
+64,Liguria,Y2,9674
+65,Provincia Autonoma Bolzano / Bozen,Y2,5440
+66,Umbria,Y3,6381
+67,Lazio,Y3,46590
+68,Abruzzo,Y3,9971
+69,Campania,Y3,49478
+70,Emilia-Romagna,Y3,35347
+71,Friuli-Venezia Giulia,Y3,8615
+72,Provincia Autonoma Trento,Y3,4737
+73,Veneto,Y3,38142
+74,Molise,Y3,2026
+75,Basilicata,Y3,3968
+76,Valle d'Aosta / Vallée d'Aoste,Y3,951
+77,Liguria,Y3,9926
+78,Trentino Alto Adige / Südtirol,Y3,10278
+79,Provincia Autonoma Bolzano / Bozen,Y3,5541
+80,Piemonte,Y3,32053
+81,Marche,Y3,11402
+82,Sardegna,Y3,10423
+83,Lombardia,Y3,82300
+84,Toscana,Y3,27031
+85,Calabria,Y3,15628
+86,Sicilia,Y3,40589
+87,Puglia,Y3,30597
+88,Valle d'Aosta / Vallée d'Aoste,Y4,961
+89,Veneto,Y4,39268
+90,Lombardia,Y4,85067
+91,Piemonte,Y4,32833
+92,Liguria,Y4,10202
+93,Trentino Alto Adige / Südtirol,Y4,10396
+94,Lazio,Y4,47781
+95,Umbria,Y4,6428
+96,Abruzzo,Y4,10085
+97,Molise,Y4,2115
+98,Campania,Y4,50210
+99,Friuli-Venezia Giulia,Y4,8715
+100,Provincia Autonoma Trento,Y4,4878
+101,Emilia-Romagna,Y4,36507
+102,Puglia,Y4,30971
+103,Calabria,Y4,15901
+104,Provincia Autonoma Bolzano / Bozen,Y4,5518
+105,Toscana,Y4,27602
+106,Sardegna,Y4,10967
+107,Marche,Y4,11861
+108,Basilicata,Y4,3996
+109,Sicilia,Y4,41903
+110,Piemonte,Y5,34181
+111,Valle d'Aosta / Vallée d'Aoste,Y5,1050
+112,Trentino Alto Adige / Südtirol,Y5,10636
+113,Provincia Autonoma Trento,Y5,4944
+114,Toscana,Y5,29161
+115,Lombardia,Y5,87242
+116,Veneto,Y5,40633
+117,Liguria,Y5,10858
+118,Emilia-Romagna,Y5,37450
+119,Friuli-Venezia Giulia,Y5,9243
+120,Provincia Autonoma Bolzano / Bozen,Y5,5692
+121,Umbria,Y5,6845
+122,Marche,Y5,12179
+123,Lazio,Y5,49513
+124,Abruzzo,Y5,10300
+125,Molise,Y5,2153
+126,Campania,Y5,50945
+127,Puglia,Y5,32418
+128,Basilicata,Y5,4045
+129,Calabria,Y5,16068
+130,Sicilia,Y5,42972
+131,Sardegna,Y5,11252
+132,Emilia-Romagna,Y6,38385
+133,Provincia Autonoma Trento,Y6,5211
+134,Molise,Y6,2192
+135,Piemonte,Y6,35065
+136,Trentino Alto Adige / Südtirol,Y6,10623
+137,Lombardia,Y6,88821
+138,Valle d'Aosta / Vallée d'Aoste,Y6,1033
+139,Veneto,Y6,41614
+140,Basilicata,Y6,4026
+141,Sicilia,Y6,42416
+142,Calabria,Y6,16075
+143,Abruzzo,Y6,10453
+144,Lazio,Y6,50450
+145,Friuli-Venezia Giulia,Y6,9426
+146,Provincia Autonoma Bolzano / Bozen,Y6,5412
+147,Sardegna,Y6,11614
+148,Toscana,Y6,29467
+149,Puglia,Y6,33061
+150,Campania,Y6,52006
+151,Liguria,Y6,10956
+152,Marche,Y6,12490
+153,Umbria,Y6,7118
+154,Basilicata,Y7,4406
+155,Sardegna,Y7,12206
+156,Lazio,Y7,53333
+157,Sicilia,Y7,44542
+158,Umbria,Y7,7461
+159,Abruzzo,Y7,10966
+160,Molise,Y7,2245
+161,Marche,Y7,12818
+162,Calabria,Y7,16483
+163,Toscana,Y7,31289
+164,Puglia,Y7,34277
+165,Campania,Y7,54373
+166,Provincia Autonoma Bolzano / Bozen,Y7,5625
+167,Lombardia,Y7,92013
+168,Piemonte,Y7,36414
+169,Trentino Alto Adige / Südtirol,Y7,10859
+170,Provincia Autonoma Trento,Y7,5234
+171,Emilia-Romagna,Y7,39593
+172,Valle d'Aosta / Vallée d'Aoste,Y7,1124
+173,Veneto,Y7,43637
+174,Friuli-Venezia Giulia,Y7,9844
+175,Liguria,Y7,11590
+176,Trentino Alto Adige / Südtirol,Y8,10901
+177,Basilicata,Y8,4374
+178,Sardegna,Y8,12843
+179,Piemonte,Y8,36698
+180,Provincia Autonoma Trento,Y8,5377
+181,Lombardia,Y8,93991
+182,Emilia-Romagna,Y8,40376
+183,Provincia Autonoma Bolzano / Bozen,Y8,5524
+184,Friuli-Venezia Giulia,Y8,10021
+185,Valle d'Aosta / Vallée d'Aoste,Y8,1182
+186,Lazio,Y8,53295
+187,Calabria,Y8,16714
+188,Umbria,Y8,7552
+189,Abruzzo,Y8,11115
+190,Molise,Y8,2316
+191,Liguria,Y8,11409
+192,Veneto,Y8,44439
+193,Puglia,Y8,35383
+194,Sicilia,Y8,44642
+195,Marche,Y8,13452
+196,Toscana,Y8,31668
+197,Campania,Y8,55531
+198,Puglia,Y9,36556
+199,Calabria,Y9,17254
+200,Toscana,Y9,32704
+201,Campania,Y9,57239
+202,Marche,Y9,13632
+203,Lazio,Y9,54609
+204,Friuli-Venezia Giulia,Y9,10410
+205,Sardegna,Y9,13244
+206,Piemonte,Y9,37577
+207,Umbria,Y9,7742
+208,Valle d'Aosta / Vallée d'Aoste,Y9,1155
+209,Lombardia,Y9,96782
+210,Basilicata,Y9,4527
+211,Provincia Autonoma Bolzano / Bozen,Y9,5533
+212,Sicilia,Y9,46202
+213,Emilia-Romagna,Y9,41720
+214,Trentino Alto Adige / Südtirol,Y9,11092
+215,Liguria,Y9,11930
+216,Molise,Y9,2444
+217,Provincia Autonoma Trento,Y9,5559
+218,Veneto,Y9,45848
+219,Abruzzo,Y9,11479
+220,Sardegna,Y10,13277
+221,Piemonte,Y10,38651
+222,Trentino Alto Adige / Südtirol,Y10,10974
+223,Valle d'Aosta / Vallée d'Aoste,Y10,1224
+224,Provincia Autonoma Bolzano / Bozen,Y10,5484
+225,Sicilia,Y10,47207
+226,Provincia Autonoma Trento,Y10,5490
+227,Basilicata,Y10,4722
+228,Emilia-Romagna,Y10,42417
+229,Molise,Y10,2271
+230,Umbria,Y10,7706
+231,Abruzzo,Y10,11286
+232,Calabria,Y10,17491
+233,Puglia,Y10,36955
+234,Liguria,Y10,12472
+235,Lombardia,Y10,98664
+236,Marche,Y10,14000
+237,Toscana,Y10,32840
+238,Campania,Y10,58784
+239,Lazio,Y10,54780
+240,Veneto,Y10,46493
+241,Friuli-Venezia Giulia,Y10,10550
+242,Piemonte,Y11,38936
+243,Valle d'Aosta / Vallée d'Aoste,Y11,1204
+244,Liguria,Y11,12738
+245,Trentino Alto Adige / Südtirol,Y11,11280
+246,Veneto,Y11,47439
+247,Provincia Autonoma Trento,Y11,5601
+248,Emilia-Romagna,Y11,42163
+249,Provincia Autonoma Bolzano / Bozen,Y11,5679
+250,Marche,Y11,14074
+251,Sicilia,Y11,48062
+252,Umbria,Y11,8132
+253,Toscana,Y11,33856
+254,Molise,Y11,2471
+255,Lombardia,Y11,98737
+256,Friuli-Venezia Giulia,Y11,10534
+257,Lazio,Y11,55204
+258,Abruzzo,Y11,11691
+259,Basilicata,Y11,4852
+260,Calabria,Y11,17693
+261,Campania,Y11,59471
+262,Puglia,Y11,37473
+263,Sardegna,Y11,13327
+264,Lombardia,Y12,97568
+265,Liguria,Y12,12464
+266,Emilia-Romagna,Y12,41874
+267,Umbria,Y12,8097
+268,Friuli-Venezia Giulia,Y12,10734
+269,Lazio,Y12,55430
+270,Molise,Y12,2481
+271,Veneto,Y12,46938
+272,Calabria,Y12,17760
+273,Abruzzo,Y12,11487
+274,Sicilia,Y12,47764
+275,Puglia,Y12,37915
+276,Marche,Y12,13867
+277,Basilicata,Y12,4792
+278,Toscana,Y12,33547
+279,Campania,Y12,60734
+280,Trentino Alto Adige / Südtirol,Y12,11157
+281,Sardegna,Y12,13297
+282,Piemonte,Y12,38912
+283,Valle d'Aosta / Vallée d'Aoste,Y12,1207
+284,Provincia Autonoma Bolzano / Bozen,Y12,5731
+285,Provincia Autonoma Trento,Y12,5426
+286,Marche,Y13,13695
+287,Calabria,Y13,18278
+288,Liguria,Y13,12639
+289,Sardegna,Y13,13394
+290,Toscana,Y13,33276
+291,Lombardia,Y13,97967
+292,Provincia Autonoma Bolzano / Bozen,Y13,5701
+293,Valle d'Aosta / Vallée d'Aoste,Y13,1235
+294,Basilicata,Y13,4953
+295,Sicilia,Y13,48748
+296,Emilia-Romagna,Y13,41506
+297,Veneto,Y13,47008
+298,Abruzzo,Y13,11364
+299,Piemonte,Y13,38350
+300,Puglia,Y13,38162
+301,Trentino Alto Adige / Südtirol,Y13,11237
+302,Molise,Y13,2479
+303,Provincia Autonoma Trento,Y13,5536
+304,Umbria,Y13,7982
+305,Lazio,Y13,54995
+306,Friuli-Venezia Giulia,Y13,10690
+307,Campania,Y13,61105
+308,Sicilia,Y14,49699
+309,Sardegna,Y14,13476
+310,Liguria,Y14,12571
+311,Piemonte,Y14,38154
+312,Valle d'Aosta / Vallée d'Aoste,Y14,1142
+313,Lombardia,Y14,95729
+314,Trentino Alto Adige / Südtirol,Y14,11396
+315,Provincia Autonoma Bolzano / Bozen,Y14,5818
+316,Provincia Autonoma Trento,Y14,5578
+317,Veneto,Y14,46717
+318,Friuli-Venezia Giulia,Y14,10511
+319,Emilia-Romagna,Y14,40843
+320,Toscana,Y14,33165
+321,Umbria,Y14,7948
+322,Marche,Y14,13666
+323,Lazio,Y14,53249
+324,Abruzzo,Y14,11488
+325,Molise,Y14,2548
+326,Campania,Y14,61704
+327,Puglia,Y14,38866
+328,Basilicata,Y14,4920
+329,Calabria,Y14,18079
+330,Piemonte,Y15,38113
+331,Valle d'Aosta / Vallée d'Aoste,Y15,1175
+332,Liguria,Y15,12648
+333,Lombardia,Y15,96079
+334,Trentino Alto Adige / Südtirol,Y15,11529
+335,Provincia Autonoma Bolzano / Bozen,Y15,5792
+336,Provincia Autonoma Trento,Y15,5737
+337,Veneto,Y15,47337
+338,Friuli-Venezia Giulia,Y15,10580
+339,Emilia-Romagna,Y15,40458
+340,Toscana,Y15,33144
+341,Umbria,Y15,7743
+342,Marche,Y15,13700
+343,Lazio,Y15,53681
+344,Campania,Y15,63793
+345,Puglia,Y15,40267
+346,Sardegna,Y15,13266
+347,Abruzzo,Y15,11594
+348,Molise,Y15,2566
+349,Basilicata,Y15,5246
+350,Calabria,Y15,18665
+351,Sicilia,Y15,50626
+352,Liguria,Y16,12429
+353,Abruzzo,Y16,11513
+354,Molise,Y16,2603
+355,Campania,Y16,64520
+356,Puglia,Y16,40598
+357,Basilicata,Y16,5289
+358,Calabria,Y16,18700
+359,Sicilia,Y16,50616
+360,Piemonte,Y16,38254
+361,Valle d'Aosta / Vallée d'Aoste,Y16,1182
+362,Lombardia,Y16,94090
+363,Trentino Alto Adige / Südtirol,Y16,11261
+364,Provincia Autonoma Bolzano / Bozen,Y16,5760
+365,Provincia Autonoma Trento,Y16,5501
+366,Veneto,Y16,46459
+367,Friuli-Venezia Giulia,Y16,10517
+368,Emilia-Romagna,Y16,39494
+369,Toscana,Y16,32348
+370,Umbria,Y16,7656
+371,Marche,Y16,13552
+372,Lazio,Y16,53171
+373,Sardegna,Y16,13754
+374,Piemonte,Y17,37717
+375,Valle d'Aosta / Vallée d'Aoste,Y17,1115
+376,Liguria,Y17,12778
+377,Lombardia,Y17,92846
+378,Trentino Alto Adige / Südtirol,Y17,11164
+379,Provincia Autonoma Bolzano / Bozen,Y17,5615
+380,Provincia Autonoma Trento,Y17,5549
+381,Veneto,Y17,45949
+382,Friuli-Venezia Giulia,Y17,10384
+383,Emilia-Romagna,Y17,39815
+384,Toscana,Y17,32589
+385,Umbria,Y17,7668
+386,Marche,Y17,13682
+387,Lazio,Y17,52271
+388,Puglia,Y17,40771
+389,Sardegna,Y17,13537
+390,Abruzzo,Y17,11386
+391,Molise,Y17,2672
+392,Campania,Y17,64111
+393,Basilicata,Y17,5466
+394,Calabria,Y17,18573
+395,Sicilia,Y17,50895
+396,Veneto,Y18,45918
+397,Friuli-Venezia Giulia,Y18,10586
+398,Emilia-Romagna,Y18,39910
+399,Toscana,Y18,32647
+400,Umbria,Y18,7600
+401,Marche,Y18,13658
+402,Lazio,Y18,52733
+403,Abruzzo,Y18,11793
+404,Molise,Y18,2740
+405,Campania,Y18,65819
+406,Puglia,Y18,42045
+407,Basilicata,Y18,5529
+408,Calabria,Y18,19403
+409,Sicilia,Y18,52375
+410,Sardegna,Y18,13883
+411,Piemonte,Y18,38009
+412,Valle d'Aosta / Vallée d'Aoste,Y18,1183
+413,Liguria,Y18,12942
+414,Lombardia,Y18,94438
+415,Trentino Alto Adige / Südtirol,Y18,11496
+416,Provincia Autonoma Bolzano / Bozen,Y18,5886
+417,Provincia Autonoma Trento,Y18,5610
+418,Piemonte,Y19,39639
+419,Valle d'Aosta / Vallée d'Aoste,Y19,1226
+420,Liguria,Y19,13239
+421,Lombardia,Y19,96559
+422,Trentino Alto Adige / Südtirol,Y19,11772
+423,Provincia Autonoma Bolzano / Bozen,Y19,6008
+424,Provincia Autonoma Trento,Y19,5764
+425,Veneto,Y19,47924
+426,Friuli-Venezia Giulia,Y19,10944
+427,Emilia-Romagna,Y19,40826
+428,Toscana,Y19,33175
+429,Umbria,Y19,7825
+430,Marche,Y19,14274
+431,Lazio,Y19,53789
+432,Abruzzo,Y19,12059
+433,Molise,Y19,2867
+434,Campania,Y19,67244
+435,Puglia,Y19,43127
+436,Basilicata,Y19,5748
+437,Calabria,Y19,20067
+438,Sicilia,Y19,53999
+439,Sardegna,Y19,14441
+440,Piemonte,Y20,39254
+441,Liguria,Y20,13138
+442,Lombardia,Y20,95790
+443,Provincia Autonoma Trento,Y20,5724
+444,Valle d'Aosta / Vallée d'Aoste,Y20,1192
+445,Trentino Alto Adige / Südtirol,Y20,11780
+446,Provincia Autonoma Bolzano / Bozen,Y20,6056
+447,Veneto,Y20,47264
+448,Friuli-Venezia Giulia,Y20,10586
+449,Emilia-Romagna,Y20,40128
+450,Toscana,Y20,32503
+451,Umbria,Y20,7818
+452,Marche,Y20,14235
+453,Lazio,Y20,53247
+454,Abruzzo,Y20,12025
+455,Molise,Y20,2965
+456,Campania,Y20,67525
+457,Puglia,Y20,43140
+458,Basilicata,Y20,5775
+459,Calabria,Y20,20051
+460,Sicilia,Y20,54663
+461,Sardegna,Y20,14379
+462,Piemonte,Y21,40093
+463,Valle d'Aosta / Vallée d'Aoste,Y21,1201
+464,Liguria,Y21,13388
+465,Lombardia,Y21,96608
+466,Trentino Alto Adige / Südtirol,Y21,11928
+467,Provincia Autonoma Bolzano / Bozen,Y21,6132
+468,Provincia Autonoma Trento,Y21,5796
+469,Veneto,Y21,48008
+470,Friuli-Venezia Giulia,Y21,10721
+471,Emilia-Romagna,Y21,40470
+472,Toscana,Y21,33274
+473,Umbria,Y21,7913
+474,Marche,Y21,14575
+475,Lazio,Y21,54323
+476,Abruzzo,Y21,12419
+477,Molise,Y21,3142
+478,Campania,Y21,67752
+479,Puglia,Y21,43153
+480,Basilicata,Y21,5775
+481,Calabria,Y21,20443
+482,Sicilia,Y21,53718
+483,Sardegna,Y21,14113
+484,Piemonte,Y22,39914
+485,Valle d'Aosta / Vallée d'Aoste,Y22,1132
+486,Liguria,Y22,13335
+487,Lombardia,Y22,96156
+488,Trentino Alto Adige / Südtirol,Y22,11914
+489,Provincia Autonoma Trento,Y22,5674
+490,Veneto,Y22,48016
+491,Friuli-Venezia Giulia,Y22,10576
+492,Emilia-Romagna,Y22,40493
+493,Umbria,Y22,7868
+494,Marche,Y22,14413
+495,Sicilia,Y22,53774
+496,Sardegna,Y22,14226
+497,Provincia Autonoma Bolzano / Bozen,Y22,6240
+498,Toscana,Y22,33054
+499,Lazio,Y22,54205
+500,Abruzzo,Y22,12361
+501,Molise,Y22,3076
+502,Campania,Y22,67634
+503,Puglia,Y22,43025
+504,Basilicata,Y22,5792
+505,Calabria,Y22,20035
+506,Sicilia,Y23,54051
+507,Sardegna,Y23,14499
+508,Piemonte,Y23,39449
+509,Valle d'Aosta / Vallée d'Aoste,Y23,1216
+510,Liguria,Y23,13646
+511,Lombardia,Y23,95693
+512,Trentino Alto Adige / Südtirol,Y23,11881
+513,Provincia Autonoma Bolzano / Bozen,Y23,6155
+514,Provincia Autonoma Trento,Y23,5726
+515,Veneto,Y23,47568
+516,Friuli-Venezia Giulia,Y23,10874
+517,Emilia-Romagna,Y23,40409
+518,Toscana,Y23,33080
+519,Umbria,Y23,7916
+520,Marche,Y23,14273
+521,Lazio,Y23,54762
+522,Abruzzo,Y23,12600
+523,Molise,Y23,3077
+524,Campania,Y23,68154
+525,Puglia,Y23,43236
+526,Basilicata,Y23,5865
+527,Calabria,Y23,20533
+528,Piemonte,Y24,39408
+529,Valle d'Aosta / Vallée d'Aoste,Y24,1154
+530,Liguria,Y24,13267
+531,Lombardia,Y24,94989
+532,Trentino Alto Adige / Südtirol,Y24,11603
+533,Provincia Autonoma Bolzano / Bozen,Y24,5941
+534,Provincia Autonoma Trento,Y24,5662
+535,Veneto,Y24,46906
+536,Friuli-Venezia Giulia,Y24,10567
+537,Emilia-Romagna,Y24,40357
+538,Toscana,Y24,32794
+539,Umbria,Y24,7907
+540,Marche,Y24,14428
+541,Lazio,Y24,55343
+542,Abruzzo,Y24,12479
+543,Molise,Y24,3140
+544,Campania,Y24,68102
+545,Puglia,Y24,43064
+546,Basilicata,Y24,5933
+547,Calabria,Y24,20884
+548,Sicilia,Y24,54442
+549,Sardegna,Y24,14865
+550,Piemonte,Y25,39827
+551,Valle d'Aosta / Vallée d'Aoste,Y25,1142
+552,Liguria,Y25,13350
+553,Lombardia,Y25,96291
+554,Trentino Alto Adige / Südtirol,Y25,11773
+555,Provincia Autonoma Bolzano / Bozen,Y25,6094
+556,Provincia Autonoma Trento,Y25,5679
+557,Veneto,Y25,47084
+558,Friuli-Venezia Giulia,Y25,10592
+559,Emilia-Romagna,Y25,41222
+560,Toscana,Y25,33081
+561,Umbria,Y25,7948
+562,Marche,Y25,14308
+563,Lazio,Y25,55827
+564,Abruzzo,Y25,12992
+565,Molise,Y25,3240
+566,Campania,Y25,68758
+567,Puglia,Y25,43266
+568,Basilicata,Y25,6063
+569,Calabria,Y25,21328
+570,Sicilia,Y25,55493
+571,Sardegna,Y25,15035
+572,Trentino Alto Adige / Südtirol,Y26,11641
+573,Provincia Autonoma Bolzano / Bozen,Y26,5919
+574,Provincia Autonoma Trento,Y26,5722
+575,Veneto,Y26,47442
+576,Friuli-Venezia Giulia,Y26,10761
+577,Emilia-Romagna,Y26,41887
+578,Toscana,Y26,33652
+579,Umbria,Y26,8168
+580,Marche,Y26,14600
+581,Lazio,Y26,56857
+582,Abruzzo,Y26,13374
+583,Molise,Y26,3317
+584,Campania,Y26,69828
+585,Puglia,Y26,44292
+586,Basilicata,Y26,6165
+587,Calabria,Y26,22144
+588,Sicilia,Y26,57091
+589,Sardegna,Y26,15499
+590,Piemonte,Y26,40479
+591,Valle d'Aosta / Vallée d'Aoste,Y26,1136
+592,Liguria,Y26,13579
+593,Lombardia,Y26,98414
+594,Piemonte,Y27,41959
+595,Valle d'Aosta / Vallée d'Aoste,Y27,1233
+596,Liguria,Y27,14327
+597,Lombardia,Y27,102237
+598,Trentino Alto Adige / Südtirol,Y27,12080
+599,Provincia Autonoma Bolzano / Bozen,Y27,6097
+600,Provincia Autonoma Trento,Y27,5983
+601,Veneto,Y27,49338
+602,Friuli-Venezia Giulia,Y27,11415
+603,Emilia-Romagna,Y27,44397
+604,Toscana,Y27,35574
+605,Umbria,Y27,8604
+606,Marche,Y27,15201
+607,Lazio,Y27,59566
+608,Abruzzo,Y27,13928
+609,Molise,Y27,3427
+610,Campania,Y27,72654
+611,Puglia,Y27,46038
+612,Basilicata,Y27,6635
+613,Calabria,Y27,22754
+614,Sicilia,Y27,59222
+615,Sardegna,Y27,16153
+616,Piemonte,Y28,42306
+617,Valle d'Aosta / Vallée d'Aoste,Y28,1196
+618,Liguria,Y28,14093
+619,Lombardia,Y28,103414
+620,Trentino Alto Adige / Südtirol,Y28,12075
+621,Provincia Autonoma Bolzano / Bozen,Y28,6218
+622,Veneto,Y28,49235
+623,Abruzzo,Y28,13842
+624,Molise,Y28,3396
+625,Campania,Y28,71820
+626,Puglia,Y28,45130
+627,Basilicata,Y28,6473
+628,Calabria,Y28,22573
+629,Sicilia,Y28,58164
+630,Sardegna,Y28,16480
+631,Provincia Autonoma Trento,Y28,5857
+632,Friuli-Venezia Giulia,Y28,11561
+633,Emilia-Romagna,Y28,44978
+634,Toscana,Y28,35477
+635,Umbria,Y28,8484
+636,Marche,Y28,15155
+637,Lazio,Y28,59161
+638,Basilicata,Y29,6707
+639,Calabria,Y29,23144
+640,Piemonte,Y29,43501
+641,Valle d'Aosta / Vallée d'Aoste,Y29,1268
+642,Liguria,Y29,14200
+643,Lombardia,Y29,106567
+644,Trentino Alto Adige / Südtirol,Y29,12174
+645,Provincia Autonoma Bolzano / Bozen,Y29,6242
+646,Provincia Autonoma Trento,Y29,5932
+647,Veneto,Y29,50365
+648,Friuli-Venezia Giulia,Y29,11698
+649,Emilia-Romagna,Y29,46319
+650,Toscana,Y29,37254
+651,Umbria,Y29,8722
+652,Marche,Y29,15551
+653,Lazio,Y29,61170
+654,Abruzzo,Y29,14063
+655,Molise,Y29,3342
+656,Sicilia,Y29,58539
+657,Sardegna,Y29,17026
+658,Campania,Y29,71252
+659,Puglia,Y29,44931
+660,Lombardia,Y30,107554
+661,Trentino Alto Adige / Südtirol,Y30,12025
+662,Provincia Autonoma Bolzano / Bozen,Y30,6158
+663,Provincia Autonoma Trento,Y30,5867
+664,Veneto,Y30,50132
+665,Friuli-Venezia Giulia,Y30,11701
+666,Emilia-Romagna,Y30,46150
+667,Toscana,Y30,36930
+668,Umbria,Y30,8918
+669,Marche,Y30,15367
+670,Lazio,Y30,61510
+671,Abruzzo,Y30,14136
+672,Molise,Y30,3349
+673,Campania,Y30,70782
+674,Puglia,Y30,44417
+675,Basilicata,Y30,6498
+676,Calabria,Y30,23414
+677,Sicilia,Y30,58537
+678,Sardegna,Y30,16982
+679,Liguria,Y30,14198
+680,Piemonte,Y30,42914
+681,Valle d'Aosta / Vallée d'Aoste,Y30,1238
+682,Trentino Alto Adige / Südtirol,Y31,12092
+683,Provincia Autonoma Bolzano / Bozen,Y31,6097
+684,Liguria,Y31,14540
+685,Valle d'Aosta / Vallée d'Aoste,Y31,1281
+686,Veneto,Y31,51262
+687,Lombardia,Y31,110812
+688,Friuli-Venezia Giulia,Y31,12010
+689,Provincia Autonoma Trento,Y31,5995
+690,Emilia-Romagna,Y31,46883
+691,Toscana,Y31,38395
+692,Umbria,Y31,9336
+693,Marche,Y31,15725
+694,Lazio,Y31,63705
+695,Abruzzo,Y31,14409
+696,Molise,Y31,3386
+697,Campania,Y31,71677
+698,Puglia,Y31,45508
+699,Basilicata,Y31,6504
+700,Calabria,Y31,23922
+701,Sicilia,Y31,58784
+702,Sardegna,Y31,17235
+703,Piemonte,Y31,44185
+704,Valle d'Aosta / Vallée d'Aoste,Y32,1241
+705,Liguria,Y32,14198
+706,Lombardia,Y32,109093
+707,Trentino Alto Adige / Südtirol,Y32,11897
+708,Provincia Autonoma Bolzano / Bozen,Y32,5920
+709,Veneto,Y32,49585
+710,Provincia Autonoma Trento,Y32,5977
+711,Friuli-Venezia Giulia,Y32,11537
+712,Emilia-Romagna,Y32,46864
+713,Toscana,Y32,37573
+714,Umbria,Y32,9027
+715,Marche,Y32,15373
+716,Lazio,Y32,63408
+717,Sicilia,Y32,57281
+718,Sardegna,Y32,17404
+719,Piemonte,Y32,43190
+720,Abruzzo,Y32,14156
+721,Molise,Y32,3428
+722,Puglia,Y32,44564
+723,Campania,Y32,69391
+724,Basilicata,Y32,6418
+725,Calabria,Y32,23467
+726,Piemonte,Y33,43888
+727,Valle d'Aosta / Vallée d'Aoste,Y33,1244
+728,Liguria,Y33,14100
+729,Lombardia,Y33,110118
+730,Trentino Alto Adige / Südtirol,Y33,11923
+731,Provincia Autonoma Bolzano / Bozen,Y33,6050
+732,Provincia Autonoma Trento,Y33,5873
+733,Veneto,Y33,50111
+734,Friuli-Venezia Giulia,Y33,11856
+735,Emilia-Romagna,Y33,47438
+736,Toscana,Y33,37676
+737,Umbria,Y33,9190
+738,Marche,Y33,15931
+739,Lazio,Y33,63823
+740,Abruzzo,Y33,14547
+741,Molise,Y33,3340
+742,Campania,Y33,68832
+743,Puglia,Y33,44199
+744,Basilicata,Y33,6253
+745,Calabria,Y33,23184
+746,Sicilia,Y33,57332
+747,Sardegna,Y33,17417
+748,Emilia-Romagna,Y34,49328
+749,Toscana,Y34,39462
+750,Marche,Y34,16290
+751,Lazio,Y34,66870
+752,Abruzzo,Y34,14947
+753,Molise,Y34,3438
+754,Campania,Y34,70390
+755,Piemonte,Y34,45113
+756,Umbria,Y34,9496
+757,Puglia,Y34,44234
+758,Basilicata,Y34,6513
+759,Calabria,Y34,23295
+760,Sicilia,Y34,57824
+761,Sardegna,Y34,18119
+762,Trentino Alto Adige / Südtirol,Y34,12209
+763,Valle d'Aosta / Vallée d'Aoste,Y34,1299
+764,Provincia Autonoma Trento,Y34,6031
+765,Liguria,Y34,14741
+766,Friuli-Venezia Giulia,Y34,12394
+767,Provincia Autonoma Bolzano / Bozen,Y34,6178
+768,Lombardia,Y34,113852
+769,Veneto,Y34,52727
+770,Piemonte,Y35,45395
+771,Valle d'Aosta / Vallée d'Aoste,Y35,1310
+772,Liguria,Y35,14620
+773,Lombardia,Y35,116544
+774,Trentino Alto Adige / Südtirol,Y35,12264
+775,Provincia Autonoma Bolzano / Bozen,Y35,6180
+776,Provincia Autonoma Trento,Y35,6084
+777,Veneto,Y35,52812
+778,Friuli-Venezia Giulia,Y35,12598
+779,Emilia-Romagna,Y35,50482
+780,Toscana,Y35,40126
+781,Umbria,Y35,9619
+782,Marche,Y35,16481
+783,Lazio,Y35,69063
+784,Abruzzo,Y35,15232
+785,Molise,Y35,3427
+786,Campania,Y35,71437
+787,Puglia,Y35,45872
+788,Basilicata,Y35,6639
+789,Calabria,Y35,23663
+790,Sicilia,Y35,58992
+791,Sardegna,Y35,18438
+792,Piemonte,Y36,46805
+793,Liguria,Y36,15011
+794,Provincia Autonoma Trento,Y36,6273
+795,Molise,Y36,3479
+796,Campania,Y36,72005
+797,Puglia,Y36,46187
+798,Basilicata,Y36,6540
+799,Calabria,Y36,23522
+800,Sicilia,Y36,58231
+801,Sardegna,Y36,18942
+802,Valle d'Aosta / Vallée d'Aoste,Y36,1383
+803,Lombardia,Y36,119588
+804,Trentino Alto Adige / Südtirol,Y36,12629
+805,Provincia Autonoma Bolzano / Bozen,Y36,6356
+806,Veneto,Y36,53983
+807,Friuli-Venezia Giulia,Y36,12650
+808,Emilia-Romagna,Y36,51621
+809,Toscana,Y36,41282
+810,Umbria,Y36,10280
+811,Marche,Y36,17006
+812,Lazio,Y36,70605
+813,Abruzzo,Y36,15229
+814,Umbria,Y37,10214
+815,Marche,Y37,17745
+816,Lazio,Y37,73521
+817,Puglia,Y37,47711
+818,Piemonte,Y37,48704
+819,Valle d'Aosta / Vallée d'Aoste,Y37,1409
+820,Liguria,Y37,14994
+821,Lombardia,Y37,124112
+822,Trentino Alto Adige / Südtirol,Y37,13059
+823,Provincia Autonoma Bolzano / Bozen,Y37,6715
+824,Provincia Autonoma Trento,Y37,6344
+825,Veneto,Y37,56135
+826,Friuli-Venezia Giulia,Y37,13386
+827,Emilia-Romagna,Y37,53200
+828,Toscana,Y37,42516
+829,Abruzzo,Y37,15931
+830,Molise,Y37,3583
+831,Campania,Y37,73816
+832,Basilicata,Y37,6627
+833,Calabria,Y37,23993
+834,Sicilia,Y37,60130
+835,Sardegna,Y37,19990
+836,Abruzzo,Y38,15835
+837,Molise,Y38,3645
+838,Campania,Y38,72941
+839,Puglia,Y38,48430
+840,Basilicata,Y38,6599
+841,Calabria,Y38,23949
+842,Sicilia,Y38,60229
+843,Sardegna,Y38,20050
+844,Piemonte,Y38,48902
+845,Valle d'Aosta / Vallée d'Aoste,Y38,1329
+846,Liguria,Y38,15667
+847,Lombardia,Y38,124995
+848,Trentino Alto Adige / Südtirol,Y38,12956
+849,Provincia Autonoma Bolzano / Bozen,Y38,6746
+850,Provincia Autonoma Trento,Y38,6210
+851,Veneto,Y38,57256
+852,Friuli-Venezia Giulia,Y38,13489
+853,Emilia-Romagna,Y38,53613
+854,Toscana,Y38,43111
+855,Umbria,Y38,10491
+856,Marche,Y38,17844
+857,Lazio,Y38,74362
+858,Piemonte,Y39,50271
+859,Valle d'Aosta / Vallée d'Aoste,Y39,1440
+860,Liguria,Y39,15533
+861,Lombardia,Y39,127531
+862,Trentino Alto Adige / Südtirol,Y39,13135
+863,Provincia Autonoma Bolzano / Bozen,Y39,6727
+864,Provincia Autonoma Trento,Y39,6408
+865,Veneto,Y39,58838
+866,Friuli-Venezia Giulia,Y39,14008
+867,Emilia-Romagna,Y39,55662
+868,Toscana,Y39,44417
+869,Umbria,Y39,10592
+870,Marche,Y39,18625
+871,Lazio,Y39,75841
+872,Abruzzo,Y39,16291
+873,Molise,Y39,3586
+874,Campania,Y39,73987
+875,Puglia,Y39,49839
+876,Basilicata,Y39,6613
+877,Sicilia,Y39,62407
+878,Calabria,Y39,24259
+879,Sardegna,Y39,20855
+880,Toscana,Y40,46583
+881,Emilia-Romagna,Y40,57998
+882,Abruzzo,Y40,16930
+883,Lazio,Y40,78238
+884,Piemonte,Y40,51568
+885,Valle d'Aosta / Vallée d'Aoste,Y40,1424
+886,Liguria,Y40,16270
+887,Lombardia,Y40,130774
+888,Trentino Alto Adige / Südtirol,Y40,13179
+889,Provincia Autonoma Bolzano / Bozen,Y40,6593
+890,Provincia Autonoma Trento,Y40,6586
+891,Veneto,Y40,61341
+892,Friuli-Venezia Giulia,Y40,14391
+893,Umbria,Y40,11014
+894,Marche,Y40,19450
+895,Molise,Y40,3797
+896,Campania,Y40,75640
+897,Puglia,Y40,52533
+898,Basilicata,Y40,6768
+899,Calabria,Y40,24826
+900,Sicilia,Y40,63097
+901,Sardegna,Y40,21050
+902,Piemonte,Y41,55153
+903,Valle d'Aosta / Vallée d'Aoste,Y41,1708
+904,Liguria,Y41,17586
+905,Lombardia,Y41,138105
+906,Trentino Alto Adige / Südtirol,Y41,13883
+907,Provincia Autonoma Bolzano / Bozen,Y41,6778
+908,Provincia Autonoma Trento,Y41,7105
+909,Veneto,Y41,65589
+910,Friuli-Venezia Giulia,Y41,15664
+911,Emilia-Romagna,Y41,61720
+912,Toscana,Y41,49404
+913,Umbria,Y41,11605
+914,Marche,Y41,20699
+915,Lazio,Y41,82513
+916,Abruzzo,Y41,17594
+917,Molise,Y41,3902
+918,Puglia,Y41,54289
+919,Basilicata,Y41,7219
+920,Calabria,Y41,25160
+921,Campania,Y41,77715
+922,Sicilia,Y41,64894
+923,Sardegna,Y41,23090
+924,Friuli-Venezia Giulia,Y42,15915
+925,Emilia-Romagna,Y42,64322
+926,Toscana,Y42,51276
+927,Piemonte,Y42,58102
+928,Valle d'Aosta / Vallée d'Aoste,Y42,1659
+929,Liguria,Y42,18607
+930,Lombardia,Y42,144006
+931,Trentino Alto Adige / Südtirol,Y42,13980
+932,Provincia Autonoma Bolzano / Bozen,Y42,6752
+933,Provincia Autonoma Trento,Y42,7228
+934,Veneto,Y42,68034
+935,Umbria,Y42,12087
+936,Marche,Y42,21294
+937,Lazio,Y42,84090
+938,Abruzzo,Y42,17738
+939,Molise,Y42,3963
+940,Campania,Y42,79245
+941,Puglia,Y42,56482
+942,Basilicata,Y42,7361
+943,Calabria,Y42,25690
+944,Sicilia,Y42,65838
+945,Sardegna,Y42,23517
+946,Piemonte,Y43,60774
+947,Valle d'Aosta / Vallée d'Aoste,Y43,1782
+948,Liguria,Y43,19788
+949,Lombardia,Y43,149545
+950,Trentino Alto Adige / Südtirol,Y43,14547
+951,Provincia Autonoma Bolzano / Bozen,Y43,6958
+952,Provincia Autonoma Trento,Y43,7589
+953,Veneto,Y43,71149
+954,Friuli-Venezia Giulia,Y43,16874
+955,Emilia-Romagna,Y43,67516
+956,Toscana,Y43,53755
+957,Marche,Y43,21904
+958,Umbria,Y43,12424
+959,Lazio,Y43,87658
+960,Abruzzo,Y43,18493
+961,Molise,Y43,4066
+962,Campania,Y43,82208
+963,Puglia,Y43,58656
+964,Basilicata,Y43,7870
+965,Calabria,Y43,26939
+966,Sicilia,Y43,69048
+967,Sardegna,Y43,24468
+968,Piemonte,Y44,64456
+969,Valle d'Aosta / Vallée d'Aoste,Y44,1841
+970,Liguria,Y44,21177
+971,Lombardia,Y44,159303
+972,Abruzzo,Y44,19005
+973,Molise,Y44,4324
+974,Campania,Y44,85009
+975,Puglia,Y44,60241
+976,Basilicata,Y44,7989
+977,Calabria,Y44,26861
+978,Sicilia,Y44,70808
+979,Sardegna,Y44,25721
+980,Trentino Alto Adige / Südtirol,Y44,15311
+981,Provincia Autonoma Bolzano / Bozen,Y44,7433
+982,Provincia Autonoma Trento,Y44,7878
+983,Veneto,Y44,74794
+984,Friuli-Venezia Giulia,Y44,17871
+985,Emilia-Romagna,Y44,70994
+986,Toscana,Y44,56570
+987,Umbria,Y44,13041
+988,Marche,Y44,23021
+989,Lazio,Y44,92094
+990,Piemonte,Y45,67320
+991,Toscana,Y45,59349
+992,Valle d'Aosta / Vallée d'Aoste,Y45,1955
+993,Umbria,Y45,13644
+994,Liguria,Y45,22576
+995,Lombardia,Y45,164177
+996,Trentino Alto Adige / Südtirol,Y45,16229
+997,Provincia Autonoma Bolzano / Bozen,Y45,7881
+998,Provincia Autonoma Trento,Y45,8348
+999,Veneto,Y45,79530
+1000,Friuli-Venezia Giulia,Y45,19320
+1001,Emilia-Romagna,Y45,74067
+1002,Marche,Y45,23585
+1003,Lazio,Y45,95799
+1004,Abruzzo,Y45,19819
+1005,Molise,Y45,4499
+1006,Campania,Y45,87943
+1007,Puglia,Y45,61782
+1008,Basilicata,Y45,8189
+1009,Calabria,Y45,27183
+1010,Sicilia,Y45,73357
+1011,Sardegna,Y45,26868
+1012,Trentino Alto Adige / Südtirol,Y46,16272
+1013,Provincia Autonoma Bolzano / Bozen,Y46,7970
+1014,Provincia Autonoma Trento,Y46,8302
+1015,Veneto,Y46,78989
+1016,Friuli-Venezia Giulia,Y46,19133
+1017,Emilia-Romagna,Y46,74043
+1018,Toscana,Y46,59592
+1019,Umbria,Y46,13561
+1020,Marche,Y46,23247
+1021,Lazio,Y46,95794
+1022,Abruzzo,Y46,19575
+1023,Molise,Y46,4340
+1024,Campania,Y46,86661
+1025,Puglia,Y46,59871
+1026,Basilicata,Y46,8059
+1027,Calabria,Y46,27117
+1028,Sicilia,Y46,72020
+1029,Sardegna,Y46,26881
+1030,Piemonte,Y47,68869
+1031,Valle d'Aosta / Vallée d'Aoste,Y47,2017
+1032,Liguria,Y47,24222
+1033,Lombardia,Y47,165437
+1034,Trentino Alto Adige / Südtirol,Y47,16513
+1035,Provincia Autonoma Bolzano / Bozen,Y47,8319
+1036,Provincia Autonoma Trento,Y47,8194
+1037,Veneto,Y47,80178
+1038,Friuli-Venezia Giulia,Y47,19738
+1039,Emilia-Romagna,Y47,74226
+1040,Toscana,Y47,60095
+1041,Umbria,Y47,13400
+1042,Marche,Y47,23494
+1043,Lazio,Y47,96772
+1044,Abruzzo,Y47,20194
+1045,Molise,Y47,4457
+1046,Campania,Y47,87234
+1047,Puglia,Y47,58990
+1048,Basilicata,Y47,8244
+1049,Calabria,Y47,27347
+1050,Sicilia,Y47,72415
+1051,Sardegna,Y47,26575
+1052,Piemonte,Y48,69993
+1053,Valle d'Aosta / Vallée d'Aoste,Y48,2102
+1054,Liguria,Y48,24490
+1055,Lombardia,Y48,165584
+1056,Trentino Alto Adige / Südtirol,Y48,17076
+1057,Provincia Autonoma Bolzano / Bozen,Y48,8499
+1058,Provincia Autonoma Trento,Y48,8577
+1059,Veneto,Y48,81203
+1060,Friuli-Venezia Giulia,Y48,19782
+1061,Emilia-Romagna,Y48,74728
+1062,Toscana,Y48,60564
+1063,Umbria,Y48,13633
+1064,Marche,Y48,24262
+1065,Lazio,Y48,96727
+1066,Abruzzo,Y48,20558
+1067,Molise,Y48,4428
+1068,Campania,Y48,87685
+1069,Puglia,Y48,60408
+1070,Basilicata,Y48,8326
+1071,Calabria,Y48,27763
+1072,Sicilia,Y48,73849
+1073,Sardegna,Y48,26547
+1074,Piemonte,Y46,67215
+1075,Valle d'Aosta / Vallée d'Aoste,Y46,2003
+1076,Liguria,Y46,22990
+1077,Lombardia,Y46,164021
+1078,Piemonte,Y49,69295
+1079,Valle d'Aosta / Vallée d'Aoste,Y49,2064
+1080,Liguria,Y49,24664
+1081,Lombardia,Y49,164121
+1082,Trentino Alto Adige / Südtirol,Y49,16762
+1083,Provincia Autonoma Bolzano / Bozen,Y49,8481
+1084,Provincia Autonoma Trento,Y49,8281
+1085,Veneto,Y49,81245
+1086,Friuli-Venezia Giulia,Y49,19989
+1087,Emilia-Romagna,Y49,73698
+1088,Toscana,Y49,59479
+1089,Umbria,Y49,13423
+1090,Marche,Y49,23494
+1091,Lazio,Y49,96643
+1092,Abruzzo,Y49,20154
+1093,Molise,Y49,4438
+1094,Campania,Y49,86257
+1095,Puglia,Y49,60040
+1096,Basilicata,Y49,8442
+1097,Calabria,Y49,27531
+1098,Sicilia,Y49,73113
+1099,Sardegna,Y49,26213
+1100,Toscana,Y50,61065
+1101,Umbria,Y50,13860
+1102,Marche,Y50,24388
+1103,Lazio,Y50,97972
+1104,Abruzzo,Y50,21054
+1105,Molise,Y50,4683
+1106,Campania,Y50,88559
+1107,Basilicata,Y50,8681
+1108,Calabria,Y50,29051
+1109,Sicilia,Y50,75468
+1110,Sardegna,Y50,27069
+1111,Piemonte,Y50,71752
+1112,Valle d'Aosta / Vallée d'Aoste,Y50,2201
+1113,Liguria,Y50,25246
+1114,Lombardia,Y50,168262
+1115,Trentino Alto Adige / Südtirol,Y50,17634
+1116,Provincia Autonoma Bolzano / Bozen,Y50,8896
+1117,Provincia Autonoma Trento,Y50,8738
+1118,Veneto,Y50,83349
+1119,Friuli-Venezia Giulia,Y50,20071
+1120,Emilia-Romagna,Y50,74376
+1121,Puglia,Y50,61584
+1122,Piemonte,Y51,71239
+1123,Valle d'Aosta / Vallée d'Aoste,Y51,2112
+1124,Liguria,Y51,25485
+1125,Lombardia,Y51,167340
+1126,Trentino Alto Adige / Südtirol,Y51,17477
+1127,Provincia Autonoma Bolzano / Bozen,Y51,8770
+1128,Provincia Autonoma Trento,Y51,8707
+1129,Veneto,Y51,82398
+1130,Friuli-Venezia Giulia,Y51,19983
+1131,Emilia-Romagna,Y51,73973
+1132,Toscana,Y51,60195
+1133,Umbria,Y51,13812
+1134,Marche,Y51,24050
+1135,Lazio,Y51,96850
+1136,Abruzzo,Y51,20872
+1137,Molise,Y51,4695
+1138,Campania,Y51,88490
+1139,Puglia,Y51,61788
+1140,Basilicata,Y51,8756
+1141,Calabria,Y51,28619
+1142,Sicilia,Y51,74499
+1143,Sardegna,Y51,26348
+1144,Piemonte,Y52,71191
+1145,Valle d'Aosta / Vallée d'Aoste,Y52,2175
+1146,Liguria,Y52,25351
+1147,Lombardia,Y52,166682
+1148,Trentino Alto Adige / Südtirol,Y52,17416
+1149,Provincia Autonoma Bolzano / Bozen,Y52,8578
+1150,Provincia Autonoma Trento,Y52,8838
+1151,Veneto,Y52,83014
+1152,Friuli-Venezia Giulia,Y52,20217
+1153,Emilia-Romagna,Y52,72843
+1154,Toscana,Y52,60599
+1155,Umbria,Y52,13653
+1156,Marche,Y52,24125
+1157,Lazio,Y52,96901
+1158,Abruzzo,Y52,21060
+1159,Molise,Y52,4821
+1160,Campania,Y52,89510
+1161,Puglia,Y52,62572
+1162,Basilicata,Y52,9022
+1163,Calabria,Y52,28953
+1164,Sicilia,Y52,75229
+1165,Sardegna,Y52,27194
+1166,Piemonte,Y53,71724
+1167,Valle d'Aosta / Vallée d'Aoste,Y53,2203
+1168,Liguria,Y53,26340
+1169,Lombardia,Y53,169652
+1170,Trentino Alto Adige / Südtirol,Y53,17784
+1171,Provincia Autonoma Bolzano / Bozen,Y53,8818
+1172,Provincia Autonoma Trento,Y53,8966
+1173,Veneto,Y53,83653
+1174,Friuli-Venezia Giulia,Y53,20257
+1175,Emilia-Romagna,Y53,73514
+1176,Toscana,Y53,61360
+1177,Umbria,Y53,13660
+1178,Marche,Y53,24284
+1179,Lazio,Y53,97282
+1180,Abruzzo,Y53,21245
+1181,Molise,Y53,4886
+1182,Campania,Y53,90043
+1183,Puglia,Y53,63011
+1184,Basilicata,Y53,8759
+1185,Calabria,Y53,29047
+1186,Sicilia,Y53,74688
+1187,Sardegna,Y53,27423
+1188,Piemonte,Y54,71373
+1189,Valle d'Aosta / Vallée d'Aoste,Y54,2113
+1190,Liguria,Y54,26833
+1191,Lombardia,Y54,168236
+1192,Trentino Alto Adige / Südtirol,Y54,17909
+1193,Provincia Autonoma Bolzano / Bozen,Y54,8836
+1194,Provincia Autonoma Trento,Y54,9073
+1195,Veneto,Y54,83635
+1196,Friuli-Venezia Giulia,Y54,20487
+1197,Emilia-Romagna,Y54,72467
+1198,Toscana,Y54,61325
+1199,Umbria,Y54,14170
+1200,Marche,Y54,24160
+1201,Lazio,Y54,97103
+1202,Abruzzo,Y54,21272
+1203,Molise,Y54,4884
+1204,Campania,Y54,89931
+1205,Puglia,Y54,63002
+1206,Basilicata,Y54,8917
+1207,Calabria,Y54,28804
+1208,Sicilia,Y54,74090
+1209,Sardegna,Y54,27344
+1210,Piemonte,Y55,72421
+1211,Valle d'Aosta / Vallée d'Aoste,Y55,2262
+1212,Liguria,Y55,27047
+1213,Lombardia,Y55,166957
+1214,Trentino Alto Adige / Südtirol,Y55,17823
+1215,Provincia Autonoma Trento,Y55,9053
+1216,Veneto,Y55,84302
+1217,Friuli-Venezia Giulia,Y55,20824
+1218,Emilia-Romagna,Y55,73674
+1219,Toscana,Y55,61888
+1220,Provincia Autonoma Bolzano / Bozen,Y55,8770
+1221,Umbria,Y55,14230
+1222,Marche,Y55,24853
+1223,Lazio,Y55,98595
+1224,Abruzzo,Y55,21378
+1225,Molise,Y55,5053
+1226,Campania,Y55,91751
+1227,Puglia,Y55,63905
+1228,Basilicata,Y55,9227
+1229,Calabria,Y55,30062
+1230,Sicilia,Y55,76013
+1231,Sardegna,Y55,27906
+1232,Friuli-Venezia Giulia,Y56,19748
+1233,Emilia-Romagna,Y56,68878
+1234,Toscana,Y56,57768
+1235,Umbria,Y56,13330
+1236,Marche,Y56,23517
+1237,Lazio,Y56,92261
+1238,Piemonte,Y56,67550
+1239,Valle d'Aosta / Vallée d'Aoste,Y56,2078
+1240,Liguria,Y56,25426
+1241,Lombardia,Y56,155897
+1242,Trentino Alto Adige / Südtirol,Y56,16696
+1243,Provincia Autonoma Bolzano / Bozen,Y56,8200
+1244,Provincia Autonoma Trento,Y56,8496
+1245,Veneto,Y56,78942
+1246,Abruzzo,Y56,20132
+1247,Molise,Y56,4694
+1248,Campania,Y56,85981
+1249,Puglia,Y56,59288
+1250,Basilicata,Y56,8721
+1251,Calabria,Y56,28373
+1252,Sicilia,Y56,71871
+1253,Sardegna,Y56,26674
+1254,Toscana,Y57,55650
+1255,Umbria,Y57,12955
+1256,Marche,Y57,22386
+1257,Lazio,Y57,88179
+1258,Abruzzo,Y57,19393
+1259,Molise,Y57,4566
+1260,Campania,Y57,83901
+1261,Puglia,Y57,57748
+1262,Basilicata,Y57,8800
+1263,Calabria,Y57,28281
+1264,Sicilia,Y57,71584
+1265,Sardegna,Y57,25997
+1266,Piemonte,Y57,65010
+1267,Valle d'Aosta / Vallée d'Aoste,Y57,1912
+1268,Liguria,Y57,24459
+1269,Lombardia,Y57,147857
+1270,Trentino Alto Adige / Südtirol,Y57,15781
+1271,Provincia Autonoma Bolzano / Bozen,Y57,7830
+1272,Provincia Autonoma Trento,Y57,7951
+1273,Veneto,Y57,75880
+1274,Friuli-Venezia Giulia,Y57,18680
+1275,Emilia-Romagna,Y57,66450
+1276,Piemonte,Y58,64262
+1277,Valle d'Aosta / Vallée d'Aoste,Y58,1940
+1278,Liguria,Y58,23668
+1279,Lombardia,Y58,143184
+1280,Trentino Alto Adige / Südtirol,Y58,15752
+1281,Provincia Autonoma Bolzano / Bozen,Y58,7585
+1282,Provincia Autonoma Trento,Y58,8167
+1283,Veneto,Y58,74210
+1284,Friuli-Venezia Giulia,Y58,18219
+1285,Emilia-Romagna,Y58,64992
+1286,Toscana,Y58,54466
+1287,Umbria,Y58,12907
+1288,Marche,Y58,22636
+1289,Lazio,Y58,85679
+1290,Abruzzo,Y58,19039
+1291,Molise,Y58,4524
+1292,Campania,Y58,82037
+1293,Puglia,Y58,57131
+1294,Basilicata,Y58,8555
+1295,Calabria,Y58,27957
+1296,Sicilia,Y58,69770
+1297,Sardegna,Y58,25451
+1298,Piemonte,Y59,62176
+1299,Valle d'Aosta / Vallée d'Aoste,Y59,1761
+1300,Sicilia,Y59,69753
+1301,Sardegna,Y59,24662
+1302,Liguria,Y59,22830
+1303,Lombardia,Y59,138042
+1304,Trentino Alto Adige / Südtirol,Y59,15072
+1305,Provincia Autonoma Bolzano / Bozen,Y59,7256
+1306,Provincia Autonoma Trento,Y59,7816
+1307,Veneto,Y59,70077
+1308,Friuli-Venezia Giulia,Y59,17597
+1309,Emilia-Romagna,Y59,62930
+1310,Toscana,Y59,52794
+1311,Umbria,Y59,12722
+1312,Marche,Y59,21795
+1313,Lazio,Y59,82008
+1314,Abruzzo,Y59,18712
+1315,Molise,Y59,4637
+1316,Campania,Y59,78481
+1317,Puglia,Y59,55557
+1318,Basilicata,Y59,8384
+1319,Calabria,Y59,27657
+1320,Piemonte,Y60,60580
+1321,Valle d'Aosta / Vallée d'Aoste,Y60,1857
+1322,Liguria,Y60,22619
+1323,Lombardia,Y60,133949
+1324,Trentino Alto Adige / Südtirol,Y60,14544
+1325,Provincia Autonoma Bolzano / Bozen,Y60,6954
+1326,Provincia Autonoma Trento,Y60,7590
+1327,Veneto,Y60,69527
+1328,Friuli-Venezia Giulia,Y60,17347
+1329,Emilia-Romagna,Y60,61429
+1330,Toscana,Y60,51500
+1331,Umbria,Y60,12188
+1332,Marche,Y60,21200
+1333,Lazio,Y60,79288
+1334,Abruzzo,Y60,18421
+1335,Molise,Y60,4444
+1336,Campania,Y60,77176
+1337,Puglia,Y60,54177
+1338,Basilicata,Y60,8051
+1339,Calabria,Y60,26960
+1340,Sicilia,Y60,66165
+1341,Sardegna,Y60,24117
+1342,Sardegna,Y61,23682
+1343,Basilicata,Y61,7763
+1344,Sicilia,Y61,63998
+1345,Puglia,Y61,51287
+1346,Calabria,Y61,25056
+1347,Piemonte,Y61,58898
+1348,Valle d'Aosta / Vallée d'Aoste,Y61,1666
+1349,Liguria,Y61,21614
+1350,Lombardia,Y61,127416
+1351,Trentino Alto Adige / Südtirol,Y61,13645
+1352,Provincia Autonoma Bolzano / Bozen,Y61,6499
+1353,Provincia Autonoma Trento,Y61,7146
+1354,Veneto,Y61,65103
+1355,Friuli-Venezia Giulia,Y61,16354
+1356,Emilia-Romagna,Y61,58440
+1357,Toscana,Y61,49497
+1358,Umbria,Y61,11533
+1359,Abruzzo,Y61,17733
+1360,Molise,Y61,4204
+1361,Campania,Y61,73066
+1362,Marche,Y61,20562
+1363,Lazio,Y61,75814
+1364,Piemonte,Y62,58516
+1365,Valle d'Aosta / Vallée d'Aoste,Y62,1661
+1366,Liguria,Y62,21355
+1367,Lombardia,Y62,124714
+1368,Trentino Alto Adige / Südtirol,Y62,13352
+1369,Provincia Autonoma Bolzano / Bozen,Y62,6269
+1370,Provincia Autonoma Trento,Y62,7083
+1371,Veneto,Y62,63594
+1372,Friuli-Venezia Giulia,Y62,15961
+1373,Emilia-Romagna,Y62,57966
+1374,Toscana,Y62,48339
+1375,Umbria,Y62,11285
+1376,Marche,Y62,20083
+1377,Lazio,Y62,74285
+1378,Abruzzo,Y62,17472
+1379,Molise,Y62,4204
+1380,Campania,Y62,71977
+1381,Puglia,Y62,51927
+1382,Basilicata,Y62,7606
+1383,Calabria,Y62,25763
+1384,Sicilia,Y62,63784
+1385,Sardegna,Y62,23647
+1386,Piemonte,Y63,57123
+1387,Valle d'Aosta / Vallée d'Aoste,Y63,1598
+1388,Liguria,Y63,20763
+1389,Lombardia,Y63,122405
+1390,Trentino Alto Adige / Südtirol,Y63,12891
+1391,Basilicata,Y63,7725
+1392,Calabria,Y63,24875
+1393,Sicilia,Y63,62144
+1394,Sardegna,Y63,23132
+1395,Provincia Autonoma Bolzano / Bozen,Y63,5928
+1396,Provincia Autonoma Trento,Y63,6963
+1397,Veneto,Y63,62342
+1398,Friuli-Venezia Giulia,Y63,15747
+1399,Emilia-Romagna,Y63,56909
+1400,Toscana,Y63,47620
+1401,Umbria,Y63,11469
+1402,Marche,Y63,20198
+1403,Lazio,Y63,72422
+1404,Abruzzo,Y63,17178
+1405,Molise,Y63,4197
+1406,Campania,Y63,68582
+1407,Puglia,Y63,50411
+1408,Sardegna,Y64,22390
+1409,Piemonte,Y64,55970
+1410,Valle d'Aosta / Vallée d'Aoste,Y64,1622
+1411,Liguria,Y64,20083
+1412,Lombardia,Y64,118648
+1413,Trentino Alto Adige / Südtirol,Y64,12320
+1414,Provincia Autonoma Bolzano / Bozen,Y64,5621
+1415,Provincia Autonoma Trento,Y64,6699
+1416,Veneto,Y64,59960
+1417,Friuli-Venezia Giulia,Y64,15377
+1418,Emilia-Romagna,Y64,54473
+1419,Toscana,Y64,46609
+1420,Umbria,Y64,11175
+1421,Marche,Y64,19403
+1422,Lazio,Y64,71015
+1423,Abruzzo,Y64,17188
+1424,Molise,Y64,4121
+1425,Campania,Y64,69129
+1426,Puglia,Y64,49916
+1427,Basilicata,Y64,7406
+1428,Calabria,Y64,24673
+1429,Sicilia,Y64,61780
+1430,Piemonte,Y65,55161
+1431,Valle d'Aosta / Vallée d'Aoste,Y65,1592
+1432,Liguria,Y65,19979
+1433,Lombardia,Y65,115894
+1434,Trentino Alto Adige / Südtirol,Y65,11901
+1435,Provincia Autonoma Bolzano / Bozen,Y65,5400
+1436,Provincia Autonoma Trento,Y65,6501
+1437,Veneto,Y65,58876
+1438,Friuli-Venezia Giulia,Y65,15102
+1439,Emilia-Romagna,Y65,52880
+1440,Toscana,Y65,46049
+1441,Umbria,Y65,10886
+1442,Marche,Y65,18696
+1443,Lazio,Y65,69454
+1444,Abruzzo,Y65,16796
+1445,Molise,Y65,4158
+1446,Campania,Y65,68139
+1447,Puglia,Y65,48418
+1448,Basilicata,Y65,7396
+1449,Calabria,Y65,24475
+1450,Sicilia,Y65,61081
+1451,Sardegna,Y65,22651
+1452,Trentino Alto Adige / Südtirol,Y66,11688
+1453,Provincia Autonoma Bolzano / Bozen,Y66,5285
+1454,Provincia Autonoma Trento,Y66,6403
+1455,Veneto,Y66,56779
+1456,Friuli-Venezia Giulia,Y66,15000
+1457,Emilia-Romagna,Y66,50532
+1458,Toscana,Y66,43629
+1459,Umbria,Y66,10689
+1460,Marche,Y66,18150
+1461,Lazio,Y66,65275
+1462,Abruzzo,Y66,15728
+1463,Molise,Y66,3786
+1464,Campania,Y66,62292
+1465,Puglia,Y66,46694
+1466,Basilicata,Y66,6810
+1467,Piemonte,Y66,53151
+1468,Valle d'Aosta / Vallée d'Aoste,Y66,1560
+1469,Liguria,Y66,19302
+1470,Lombardia,Y66,111738
+1471,Calabria,Y66,23045
+1472,Sicilia,Y66,56152
+1473,Sardegna,Y66,21488
+1474,Trentino Alto Adige / Südtirol,Y67,11354
+1475,Provincia Autonoma Bolzano / Bozen,Y67,5116
+1476,Provincia Autonoma Trento,Y67,6238
+1477,Veneto,Y67,55612
+1478,Friuli-Venezia Giulia,Y67,14809
+1479,Emilia-Romagna,Y67,49703
+1480,Toscana,Y67,43128
+1481,Umbria,Y67,10082
+1482,Marche,Y67,18060
+1483,Abruzzo,Y67,15599
+1484,Molise,Y67,3912
+1485,Piemonte,Y67,52941
+1486,Valle d'Aosta / Vallée d'Aoste,Y67,1493
+1487,Liguria,Y67,18664
+1488,Lazio,Y67,63408
+1489,Campania,Y67,60040
+1490,Puglia,Y67,44689
+1491,Basilicata,Y67,6704
+1492,Calabria,Y67,21745
+1493,Sicilia,Y67,55395
+1494,Sardegna,Y67,21132
+1495,Lombardia,Y67,111032
+1496,Piemonte,Y68,51885
+1497,Valle d'Aosta / Vallée d'Aoste,Y68,1510
+1498,Liguria,Y68,18617
+1499,Lombardia,Y68,109629
+1500,Trentino Alto Adige / Südtirol,Y68,11019
+1501,Provincia Autonoma Bolzano / Bozen,Y68,4944
+1502,Provincia Autonoma Trento,Y68,6075
+1503,Veneto,Y68,54670
+1504,Friuli-Venezia Giulia,Y68,14594
+1505,Emilia-Romagna,Y68,48825
+1506,Toscana,Y68,42836
+1507,Marche,Y68,18280
+1508,Lazio,Y68,62378
+1509,Abruzzo,Y68,15596
+1510,Molise,Y68,3605
+1511,Campania,Y68,59873
+1512,Puglia,Y68,46067
+1513,Basilicata,Y68,6568
+1514,Calabria,Y68,22154
+1515,Sicilia,Y68,54596
+1516,Sardegna,Y68,20698
+1517,Umbria,Y68,10556
+1518,Piemonte,Y69,54006
+1519,Liguria,Y69,19779
+1520,Lombardia,Y69,113693
+1521,Provincia Autonoma Bolzano / Bozen,Y69,5025
+1522,Provincia Autonoma Trento,Y69,6329
+1523,Friuli-Venezia Giulia,Y69,15498
+1524,Emilia-Romagna,Y69,51054
+1525,Calabria,Y69,22469
+1526,Sicilia,Y69,56106
+1527,Sardegna,Y69,20704
+1528,Valle d'Aosta / Vallée d'Aoste,Y69,1501
+1529,Trentino Alto Adige / Südtirol,Y69,11354
+1530,Veneto,Y69,56747
+1531,Toscana,Y69,44046
+1532,Umbria,Y69,10676
+1533,Marche,Y69,18534
+1534,Lazio,Y69,63750
+1535,Abruzzo,Y69,15994
+1536,Molise,Y69,3878
+1537,Campania,Y69,60593
+1538,Puglia,Y69,47314
+1539,Basilicata,Y69,6788
+1540,Provincia Autonoma Trento,Y70,5946
+1541,Veneto,Y70,55693
+1542,Friuli-Venezia Giulia,Y70,15212
+1543,Piemonte,Y70,54376
+1544,Valle d'Aosta / Vallée d'Aoste,Y70,1582
+1545,Liguria,Y70,19963
+1546,Lombardia,Y70,114336
+1547,Trentino Alto Adige / Südtirol,Y70,10821
+1548,Provincia Autonoma Bolzano / Bozen,Y70,4875
+1549,Emilia-Romagna,Y70,51451
+1550,Toscana,Y70,45862
+1551,Umbria,Y70,11005
+1552,Marche,Y70,17853
+1553,Lazio,Y70,63403
+1554,Abruzzo,Y70,16233
+1555,Molise,Y70,4030
+1556,Campania,Y70,60189
+1557,Puglia,Y70,46899
+1558,Basilicata,Y70,6820
+1559,Calabria,Y70,22360
+1560,Sicilia,Y70,56049
+1561,Sardegna,Y70,20003
+1562,Emilia-Romagna,Y71,54078
+1563,Veneto,Y71,57082
+1564,Provincia Autonoma Trento,Y71,6070
+1565,Basilicata,Y71,6979
+1566,Trentino Alto Adige / Südtirol,Y71,11131
+1567,Provincia Autonoma Bolzano / Bozen,Y71,5061
+1568,Sardegna,Y71,20252
+1569,Lombardia,Y71,117752
+1570,Calabria,Y71,22483
+1571,Sicilia,Y71,57555
+1572,Marche,Y71,18308
+1573,Toscana,Y71,48626
+1574,Umbria,Y71,11713
+1575,Lazio,Y71,66355
+1576,Campania,Y71,61147
+1577,Puglia,Y71,49398
+1578,Abruzzo,Y71,16349
+1579,Molise,Y71,3905
+1580,Friuli-Venezia Giulia,Y71,16138
+1581,Piemonte,Y71,56949
+1582,Valle d'Aosta / Vallée d'Aoste,Y71,1595
+1583,Liguria,Y71,21024
+1584,Liguria,Y72,21505
+1585,Lombardia,Y72,113502
+1586,Trentino Alto Adige / Südtirol,Y72,10749
+1587,Provincia Autonoma Bolzano / Bozen,Y72,4819
+1588,Provincia Autonoma Trento,Y72,5930
+1589,Veneto,Y72,55342
+1590,Friuli-Venezia Giulia,Y72,16064
+1591,Emilia-Romagna,Y72,53467
+1592,Toscana,Y72,48299
+1593,Umbria,Y72,10765
+1594,Marche,Y72,17589
+1595,Lazio,Y72,65262
+1596,Piemonte,Y72,55359
+1597,Valle d'Aosta / Vallée d'Aoste,Y72,1481
+1598,Abruzzo,Y72,15403
+1599,Molise,Y72,3708
+1600,Campania,Y72,58376
+1601,Puglia,Y72,46130
+1602,Basilicata,Y72,6282
+1603,Calabria,Y72,21708
+1604,Sicilia,Y72,56284
+1605,Sardegna,Y72,19302
+1606,Piemonte,Y73,53609
+1607,Valle d'Aosta / Vallée d'Aoste,Y73,1408
+1608,Liguria,Y73,21477
+1609,Lombardia,Y73,115962
+1610,Trentino Alto Adige / Südtirol,Y73,11443
+1611,Provincia Autonoma Bolzano / Bozen,Y73,5228
+1612,Provincia Autonoma Trento,Y73,6215
+1613,Veneto,Y73,59502
+1614,Friuli-Venezia Giulia,Y73,16760
+1615,Emilia-Romagna,Y73,53910
+1616,Toscana,Y73,48276
+1617,Umbria,Y73,10288
+1618,Marche,Y73,17545
+1619,Lazio,Y73,62964
+1620,Abruzzo,Y73,14841
+1621,Molise,Y73,3408
+1622,Campania,Y73,58268
+1623,Puglia,Y73,45048
+1624,Basilicata,Y73,5680
+1625,Calabria,Y73,19731
+1626,Sicilia,Y73,51046
+1627,Sardegna,Y73,17913
+1628,Piemonte,Y74,40698
+1629,Valle d'Aosta / Vallée d'Aoste,Y74,1082
+1630,Liguria,Y74,15458
+1631,Lombardia,Y74,84776
+1632,Trentino Alto Adige / Südtirol,Y74,8139
+1633,Provincia Autonoma Bolzano / Bozen,Y74,3818
+1634,Provincia Autonoma Trento,Y74,4321
+1635,Veneto,Y74,40425
+1636,Friuli-Venezia Giulia,Y74,11362
+1637,Emilia-Romagna,Y74,37788
+1638,Toscana,Y74,37174
+1639,Umbria,Y74,8207
+1640,Marche,Y74,14410
+1641,Lazio,Y74,48744
+1642,Abruzzo,Y74,11066
+1643,Molise,Y74,2641
+1644,Campania,Y74,46997
+1645,Puglia,Y74,37758
+1646,Basilicata,Y74,4399
+1647,Calabria,Y74,15234
+1648,Sicilia,Y74,42761
+1649,Sardegna,Y74,16626
+1650,Piemonte,Y75,43227
+1651,Valle d'Aosta / Vallée d'Aoste,Y75,1148
+1652,Liguria,Y75,17305
+1653,Lombardia,Y75,89829
+1654,Trentino Alto Adige / Südtirol,Y75,9262
+1655,Provincia Autonoma Bolzano / Bozen,Y75,4477
+1656,Provincia Autonoma Trento,Y75,4785
+1657,Veneto,Y75,46259
+1658,Friuli-Venezia Giulia,Y75,13440
+1659,Emilia-Romagna,Y75,41845
+1660,Toscana,Y75,36787
+1661,Umbria,Y75,8656
+1662,Marche,Y75,13831
+1663,Lazio,Y75,48387
+1664,Abruzzo,Y75,11792
+1665,Molise,Y75,2571
+1666,Campania,Y75,39694
+1667,Puglia,Y75,33739
+1668,Basilicata,Y75,4319
+1669,Calabria,Y75,15125
+1670,Sicilia,Y75,40547
+1671,Sardegna,Y75,16120
+1672,Piemonte,Y76,42568
+1673,Valle d'Aosta / Vallée d'Aoste,Y76,1202
+1674,Liguria,Y76,16708
+1675,Lombardia,Y76,87799
+1676,Trentino Alto Adige / Südtirol,Y76,9710
+1677,Provincia Autonoma Bolzano / Bozen,Y76,4815
+1678,Provincia Autonoma Trento,Y76,4895
+1679,Veneto,Y76,46642
+1680,Friuli-Venezia Giulia,Y76,13071
+1681,Emilia-Romagna,Y76,41123
+1682,Toscana,Y76,36527
+1683,Umbria,Y76,8979
+1684,Marche,Y76,14424
+1685,Lazio,Y76,50014
+1686,Abruzzo,Y76,11286
+1687,Molise,Y76,2395
+1688,Campania,Y76,42313
+1689,Puglia,Y76,33283
+1690,Basilicata,Y76,4245
+1691,Calabria,Y76,14777
+1692,Sicilia,Y76,38149
+1693,Sardegna,Y76,15409
+1694,Piemonte,Y77,42562
+1695,Valle d'Aosta / Vallée d'Aoste,Y77,1186
+1696,Lombardia,Y77,88391
+1697,Trentino Alto Adige / Südtirol,Y77,9491
+1698,Veneto,Y77,44644
+1699,Sardegna,Y77,15587
+1700,Liguria,Y77,16967
+1701,Provincia Autonoma Bolzano / Bozen,Y77,4692
+1702,Provincia Autonoma Trento,Y77,4799
+1703,Friuli-Venezia Giulia,Y77,13001
+1704,Emilia-Romagna,Y77,39912
+1705,Toscana,Y77,34616
+1706,Umbria,Y77,8195
+1707,Marche,Y77,13535
+1708,Lazio,Y77,47928
+1709,Abruzzo,Y77,10827
+1710,Molise,Y77,2297
+1711,Campania,Y77,39699
+1712,Puglia,Y77,33583
+1713,Basilicata,Y77,4181
+1714,Calabria,Y77,14505
+1715,Sicilia,Y77,37239
+1716,Piemonte,Y78,42430
+1717,Valle d'Aosta / Vallée d'Aoste,Y78,1183
+1718,Liguria,Y78,17282
+1719,Lombardia,Y78,88964
+1720,Trentino Alto Adige / Südtirol,Y78,9344
+1721,Provincia Autonoma Bolzano / Bozen,Y78,4671
+1722,Provincia Autonoma Trento,Y78,4673
+1723,Veneto,Y78,43629
+1724,Friuli-Venezia Giulia,Y78,12960
+1725,Emilia-Romagna,Y78,40284
+1726,Toscana,Y78,35234
+1727,Umbria,Y78,8199
+1728,Marche,Y78,13414
+1729,Lazio,Y78,47634
+1730,Abruzzo,Y78,10736
+1731,Molise,Y78,2523
+1732,Campania,Y78,37467
+1733,Puglia,Y78,31336
+1734,Basilicata,Y78,4124
+1735,Calabria,Y78,13777
+1736,Sicilia,Y78,36582
+1737,Sardegna,Y78,14214
+1738,Piemonte,Y79,45638
+1739,Valle d'Aosta / Vallée d'Aoste,Y79,1222
+1740,Liguria,Y79,18345
+1741,Lombardia,Y79,94898
+1742,Trentino Alto Adige / Südtirol,Y79,8839
+1743,Provincia Autonoma Bolzano / Bozen,Y79,4157
+1744,Provincia Autonoma Trento,Y79,4682
+1745,Veneto,Y79,45225
+1746,Friuli-Venezia Giulia,Y79,13401
+1747,Emilia-Romagna,Y79,43271
+1748,Toscana,Y79,38750
+1749,Umbria,Y79,8997
+1750,Marche,Y79,15032
+1751,Lazio,Y79,51316
+1752,Abruzzo,Y79,12039
+1753,Molise,Y79,2813
+1754,Campania,Y79,40230
+1755,Puglia,Y79,33360
+1756,Basilicata,Y79,4776
+1757,Calabria,Y79,15508
+1758,Sicilia,Y79,40753
+1759,Sardegna,Y79,15431
+1760,Toscana,Y80,36741
+1761,Umbria,Y80,8659
+1762,Marche,Y80,15066
+1763,Lazio,Y80,48404
+1764,Abruzzo,Y80,11902
+1765,Molise,Y80,2933
+1766,Campania,Y80,38307
+1767,Puglia,Y80,32234
+1768,Basilicata,Y80,4871
+1769,Calabria,Y80,14773
+1770,Sicilia,Y80,38195
+1771,Sardegna,Y80,14178
+1772,Piemonte,Y80,44405
+1773,Valle d'Aosta / Vallée d'Aoste,Y80,1114
+1774,Liguria,Y80,17679
+1775,Lombardia,Y80,90760
+1776,Trentino Alto Adige / Südtirol,Y80,8367
+1777,Provincia Autonoma Bolzano / Bozen,Y80,4061
+1778,Provincia Autonoma Trento,Y80,4306
+1779,Veneto,Y80,43265
+1780,Friuli-Venezia Giulia,Y80,12443
+1781,Emilia-Romagna,Y80,41788
+1782,Piemonte,Y81,42233
+1783,Valle d'Aosta / Vallée d'Aoste,Y81,1118
+1784,Liguria,Y81,16903
+1785,Lombardia,Y81,85531
+1786,Trentino Alto Adige / Südtirol,Y81,7688
+1787,Provincia Autonoma Bolzano / Bozen,Y81,3621
+1788,Provincia Autonoma Trento,Y81,4067
+1789,Veneto,Y81,40421
+1790,Friuli-Venezia Giulia,Y81,11654
+1791,Emilia-Romagna,Y81,40600
+1792,Toscana,Y81,35999
+1793,Umbria,Y81,8619
+1794,Marche,Y81,14764
+1795,Lazio,Y81,45267
+1796,Abruzzo,Y81,10598
+1797,Molise,Y81,2442
+1798,Campania,Y81,34281
+1799,Puglia,Y81,29672
+1800,Basilicata,Y81,4548
+1801,Calabria,Y81,13634
+1802,Sicilia,Y81,35414
+1803,Sardegna,Y81,12485
+1804,Piemonte,Y82,37401
+1805,Valle d'Aosta / Vallée d'Aoste,Y82,975
+1806,Liguria,Y82,15244
+1807,Lombardia,Y82,74385
+1808,Trentino Alto Adige / Südtirol,Y82,6778
+1809,Provincia Autonoma Bolzano / Bozen,Y82,3203
+1810,Provincia Autonoma Trento,Y82,3575
+1811,Veneto,Y82,35609
+1812,Friuli-Venezia Giulia,Y82,10352
+1813,Emilia-Romagna,Y82,35471
+1814,Toscana,Y82,31568
+1815,Umbria,Y82,7443
+1816,Marche,Y82,12923
+1817,Lazio,Y82,40468
+1818,Abruzzo,Y82,10210
+1819,Molise,Y82,2406
+1820,Puglia,Y82,27231
+1821,Basilicata,Y82,4415
+1822,Calabria,Y82,12649
+1823,Sicilia,Y82,30774
+1824,Sardegna,Y82,11308
+1825,Campania,Y82,31460
+1826,Valle d'Aosta / Vallée d'Aoste,Y83,851
+1827,Lombardia,Y83,65275
+1828,Piemonte,Y83,33293
+1829,Veneto,Y83,31710
+1830,Lazio,Y83,36413
+1831,Liguria,Y83,13592
+1832,Marche,Y83,11521
+1833,Trentino Alto Adige / Südtirol,Y83,6169
+1834,Provincia Autonoma Bolzano / Bozen,Y83,2913
+1835,Provincia Autonoma Trento,Y83,3256
+1836,Friuli-Venezia Giulia,Y83,9160
+1837,Emilia-Romagna,Y83,31284
+1838,Toscana,Y83,27807
+1839,Umbria,Y83,6652
+1840,Abruzzo,Y83,9233
+1841,Molise,Y83,2351
+1842,Campania,Y83,27907
+1843,Puglia,Y83,24259
+1844,Basilicata,Y83,4049
+1845,Calabria,Y83,11992
+1846,Sicilia,Y83,28799
+1847,Sardegna,Y83,10617
+1848,Campania,Y84,26861
+1849,Piemonte,Y84,32107
+1850,Valle d'Aosta / Vallée d'Aoste,Y84,764
+1851,Liguria,Y84,12881
+1852,Lombardia,Y84,63704
+1853,Trentino Alto Adige / Südtirol,Y84,5847
+1854,Provincia Autonoma Bolzano / Bozen,Y84,2666
+1855,Provincia Autonoma Trento,Y84,3181
+1856,Veneto,Y84,30724
+1857,Friuli-Venezia Giulia,Y84,8556
+1858,Emilia-Romagna,Y84,31628
+1859,Toscana,Y84,27321
+1860,Marche,Y84,11486
+1861,Lazio,Y84,34924
+1862,Abruzzo,Y84,8885
+1863,Molise,Y84,2230
+1864,Puglia,Y84,23256
+1865,Basilicata,Y84,3774
+1866,Calabria,Y84,11467
+1867,Sicilia,Y84,27341
+1868,Sardegna,Y84,9341
+1869,Umbria,Y84,6480
+1870,Piemonte,Y85,28730
+1871,Valle d'Aosta / Vallée d'Aoste,Y85,682
+1872,Liguria,Y85,11630
+1873,Lombardia,Y85,56653
+1874,Trentino Alto Adige / Südtirol,Y85,5422
+1875,Provincia Autonoma Bolzano / Bozen,Y85,2556
+1876,Provincia Autonoma Trento,Y85,2866
+1877,Veneto,Y85,28013
+1878,Friuli-Venezia Giulia,Y85,7495
+1879,Emilia-Romagna,Y85,29281
+1880,Toscana,Y85,24152
+1881,Marche,Y85,10350
+1882,Lazio,Y85,31562
+1883,Abruzzo,Y85,8051
+1884,Molise,Y85,2138
+1885,Umbria,Y85,6038
+1886,Campania,Y85,23599
+1887,Puglia,Y85,21351
+1888,Basilicata,Y85,3646
+1889,Calabria,Y85,10496
+1890,Sicilia,Y85,25747
+1891,Sardegna,Y85,9221
+1892,Piemonte,Y86,25441
+1893,Liguria,Y86,10754
+1894,Lombardia,Y86,50629
+1895,Provincia Autonoma Bolzano / Bozen,Y86,2394
+1896,Provincia Autonoma Trento,Y86,2602
+1897,Valle d'Aosta / Vallée d'Aoste,Y86,675
+1898,Trentino Alto Adige / Südtirol,Y86,4996
+1899,Veneto,Y86,23917
+1900,Friuli-Venezia Giulia,Y86,6786
+1901,Emilia-Romagna,Y86,25567
+1902,Toscana,Y86,21910
+1903,Umbria,Y86,5531
+1904,Marche,Y86,9321
+1905,Lazio,Y86,27834
+1906,Abruzzo,Y86,7676
+1907,Molise,Y86,1939
+1908,Campania,Y86,21981
+1909,Puglia,Y86,18929
+1910,Basilicata,Y86,3269
+1911,Calabria,Y86,9918
+1912,Sicilia,Y86,23276
+1913,Sardegna,Y86,8448
+1914,Piemonte,Y87,23181
+1915,Valle d'Aosta / Vallée d'Aoste,Y87,572
+1916,Liguria,Y87,9935
+1917,Lombardia,Y87,45748
+1918,Trentino Alto Adige / Südtirol,Y87,4523
+1919,Provincia Autonoma Bolzano / Bozen,Y87,2133
+1920,Provincia Autonoma Trento,Y87,2390
+1921,Veneto,Y87,21956
+1922,Friuli-Venezia Giulia,Y87,6167
+1923,Emilia-Romagna,Y87,22390
+1924,Toscana,Y87,19539
+1925,Umbria,Y87,4716
+1926,Marche,Y87,7928
+1927,Lazio,Y87,24289
+1928,Abruzzo,Y87,6435
+1929,Molise,Y87,1650
+1930,Campania,Y87,19189
+1931,Puglia,Y87,16787
+1932,Basilicata,Y87,2777
+1933,Calabria,Y87,8623
+1934,Sicilia,Y87,19702
+1935,Sardegna,Y87,7299
+1936,Piemonte,Y88,20849
+1937,Valle d'Aosta / Vallée d'Aoste,Y88,532
+1938,Liguria,Y88,8900
+1939,Lombardia,Y88,40549
+1940,Trentino Alto Adige / Südtirol,Y88,4036
+1941,Provincia Autonoma Trento,Y88,2153
+1942,Veneto,Y88,19431
+1943,Friuli-Venezia Giulia,Y88,5492
+1944,Molise,Y88,1478
+1945,Campania,Y88,16702
+1946,Puglia,Y88,14899
+1947,Basilicata,Y88,2462
+1948,Calabria,Y88,7531
+1949,Sicilia,Y88,17468
+1950,Provincia Autonoma Bolzano / Bozen,Y88,1883
+1951,Emilia-Romagna,Y88,20690
+1952,Toscana,Y88,18021
+1953,Umbria,Y88,4550
+1954,Marche,Y88,7679
+1955,Lazio,Y88,21993
+1956,Abruzzo,Y88,5931
+1957,Sardegna,Y88,6310
+1958,Basilicata,Y89,2296
+1959,Calabria,Y89,6637
+1960,Sicilia,Y89,16414
+1961,Sardegna,Y89,5965
+1962,Valle d'Aosta / Vallée d'Aoste,Y89,517
+1963,Liguria,Y89,8292
+1964,Piemonte,Y89,19072
+1965,Lombardia,Y89,36243
+1966,Trentino Alto Adige / Südtirol,Y89,3746
+1967,Provincia Autonoma Bolzano / Bozen,Y89,1678
+1968,Provincia Autonoma Trento,Y89,2068
+1969,Veneto,Y89,17984
+1970,Friuli-Venezia Giulia,Y89,5202
+1971,Emilia-Romagna,Y89,18967
+1972,Toscana,Y89,16595
+1973,Umbria,Y89,4090
+1974,Marche,Y89,6787
+1975,Lazio,Y89,20224
+1976,Abruzzo,Y89,5567
+1977,Molise,Y89,1471
+1978,Campania,Y89,14986
+1979,Puglia,Y89,13606
+1980,Piemonte,Y90,15213
+1981,Valle d'Aosta / Vallée d'Aoste,Y90,412
+1982,Liguria,Y90,6801
+1983,Lombardia,Y90,29330
+1984,Trentino Alto Adige / Südtirol,Y90,3001
+1985,Provincia Autonoma Bolzano / Bozen,Y90,1341
+1986,Provincia Autonoma Trento,Y90,1660
+1987,Veneto,Y90,14176
+1988,Friuli-Venezia Giulia,Y90,4159
+1989,Emilia-Romagna,Y90,15279
+1990,Toscana,Y90,13374
+1991,Umbria,Y90,3236
+1992,Marche,Y90,5386
+1993,Lazio,Y90,15731
+1994,Abruzzo,Y90,4339
+1995,Molise,Y90,1140
+1996,Campania,Y90,11719
+1997,Puglia,Y90,10552
+1998,Basilicata,Y90,1856
+1999,Calabria,Y90,5285
+2000,Sicilia,Y90,12198
+2001,Sardegna,Y90,4833
+2002,Piemonte,Y91,12224
+2003,Valle d'Aosta / Vallée d'Aoste,Y91,342
+2004,Liguria,Y91,5576
+2005,Provincia Autonoma Trento,Y91,1412
+2006,Toscana,Y91,11330
+2007,Umbria,Y91,2734
+2008,Marche,Y91,4663
+2009,Lazio,Y91,12883
+2010,Abruzzo,Y91,3578
+2011,Molise,Y91,911
+2012,Campania,Y91,9629
+2013,Puglia,Y91,8831
+2014,Basilicata,Y91,1470
+2015,Calabria,Y91,4295
+2016,Sicilia,Y91,10251
+2017,Sardegna,Y91,4046
+2018,Lombardia,Y91,24052
+2019,Trentino Alto Adige / Südtirol,Y91,2538
+2020,Provincia Autonoma Bolzano / Bozen,Y91,1126
+2021,Veneto,Y91,12283
+2022,Friuli-Venezia Giulia,Y91,3518
+2023,Emilia-Romagna,Y91,13079
+2024,Umbria,Y92,2378
+2025,Marche,Y92,4051
+2026,Lazio,Y92,10436
+2027,Campania,Y92,7496
+2028,Abruzzo,Y92,3089
+2029,Molise,Y92,816
+2030,Puglia,Y92,7351
+2031,Basilicata,Y92,1223
+2032,Calabria,Y92,3431
+2033,Sicilia,Y92,7817
+2034,Sardegna,Y92,3156
+2035,Piemonte,Y92,10073
+2036,Valle d'Aosta / Vallée d'Aoste,Y92,268
+2037,Liguria,Y92,4571
+2038,Lombardia,Y92,19579
+2039,Trentino Alto Adige / Südtirol,Y92,2122
+2040,Provincia Autonoma Bolzano / Bozen,Y92,918
+2041,Provincia Autonoma Trento,Y92,1204
+2042,Veneto,Y92,10319
+2043,Friuli-Venezia Giulia,Y92,2977
+2044,Emilia-Romagna,Y92,10885
+2045,Toscana,Y92,9335
+2046,Piemonte,Y93,7696
+2047,Valle d'Aosta / Vallée d'Aoste,Y93,214
+2048,Liguria,Y93,3586
+2049,Lombardia,Y93,15293
+2050,Trentino Alto Adige / Südtirol,Y93,1667
+2051,Provincia Autonoma Bolzano / Bozen,Y93,732
+2052,Provincia Autonoma Trento,Y93,935
+2053,Veneto,Y93,7933
+2054,Friuli-Venezia Giulia,Y93,2472
+2055,Emilia-Romagna,Y93,8623
+2056,Toscana,Y93,7381
+2057,Umbria,Y93,1856
+2058,Marche,Y93,3215
+2059,Lazio,Y93,8429
+2060,Abruzzo,Y93,2326
+2061,Molise,Y93,640
+2062,Campania,Y93,5754
+2063,Puglia,Y93,5421
+2064,Basilicata,Y93,937
+2065,Calabria,Y93,2799
+2066,Sicilia,Y93,6439
+2067,Sardegna,Y93,2602
+2068,Calabria,Y94,2126
+2069,Sicilia,Y94,4838
+2070,Piemonte,Y94,5813
+2071,Valle d'Aosta / Vallée d'Aoste,Y94,166
+2072,Liguria,Y94,2808
+2073,Lombardia,Y94,11929
+2074,Trentino Alto Adige / Südtirol,Y94,1347
+2075,Provincia Autonoma Bolzano / Bozen,Y94,612
+2076,Provincia Autonoma Trento,Y94,735
+2077,Veneto,Y94,6268
+2078,Friuli-Venezia Giulia,Y94,1975
+2079,Emilia-Romagna,Y94,6974
+2080,Toscana,Y94,5678
+2081,Umbria,Y94,1510
+2082,Marche,Y94,2556
+2083,Sardegna,Y94,1814
+2084,Lazio,Y94,6231
+2085,Abruzzo,Y94,1789
+2086,Molise,Y94,456
+2087,Campania,Y94,4376
+2088,Puglia,Y94,4103
+2089,Basilicata,Y94,694
+2090,Piemonte,Y95,4291
+2091,Valle d'Aosta / Vallée d'Aoste,Y95,102
+2092,Liguria,Y95,2100
+2093,Lombardia,Y95,8983
+2094,Trentino Alto Adige / Südtirol,Y95,1028
+2095,Provincia Autonoma Bolzano / Bozen,Y95,449
+2096,Provincia Autonoma Trento,Y95,579
+2097,Veneto,Y95,4628
+2098,Friuli-Venezia Giulia,Y95,1565
+2099,Emilia-Romagna,Y95,5314
+2100,Toscana,Y95,4419
+2101,Umbria,Y95,1150
+2102,Marche,Y95,1782
+2103,Lazio,Y95,4874
+2104,Abruzzo,Y95,1396
+2105,Molise,Y95,393
+2106,Campania,Y95,3194
+2107,Puglia,Y95,2975
+2108,Basilicata,Y95,483
+2109,Calabria,Y95,1670
+2110,Sicilia,Y95,3801
+2111,Sardegna,Y95,1501
+2112,Piemonte,Y96,3253
+2113,Valle d'Aosta / Vallée d'Aoste,Y96,89
+2114,Puglia,Y96,2359
+2115,Basilicata,Y96,411
+2116,Calabria,Y96,1202
+2117,Sicilia,Y96,2514
+2118,Sardegna,Y96,1033
+2119,Liguria,Y96,1564
+2120,Lombardia,Y96,6634
+2121,Trentino Alto Adige / Südtirol,Y96,862
+2122,Provincia Autonoma Bolzano / Bozen,Y96,350
+2123,Provincia Autonoma Trento,Y96,512
+2124,Veneto,Y96,3617
+2125,Friuli-Venezia Giulia,Y96,1187
+2126,Emilia-Romagna,Y96,4012
+2127,Toscana,Y96,3304
+2128,Umbria,Y96,783
+2129,Marche,Y96,1368
+2130,Lazio,Y96,3618
+2131,Abruzzo,Y96,1002
+2132,Molise,Y96,269
+2133,Campania,Y96,2366
+2134,Piemonte,Y97,2411
+2135,Valle d'Aosta / Vallée d'Aoste,Y97,63
+2136,Liguria,Y97,1174
+2137,Lombardia,Y97,4624
+2138,Sardegna,Y97,777
+2139,Trentino Alto Adige / Südtirol,Y97,633
+2140,Provincia Autonoma Bolzano / Bozen,Y97,276
+2141,Provincia Autonoma Trento,Y97,357
+2142,Veneto,Y97,2412
+2143,Friuli-Venezia Giulia,Y97,833
+2144,Emilia-Romagna,Y97,2809
+2145,Toscana,Y97,2292
+2146,Umbria,Y97,542
+2147,Marche,Y97,935
+2148,Lazio,Y97,2566
+2149,Abruzzo,Y97,745
+2150,Molise,Y97,219
+2151,Basilicata,Y97,291
+2152,Campania,Y97,1670
+2153,Puglia,Y97,1625
+2154,Calabria,Y97,814
+2155,Sicilia,Y97,1867
+2156,Piemonte,Y98,1610
+2157,Valle d'Aosta / Vallée d'Aoste,Y98,49
+2158,Liguria,Y98,799
+2159,Lombardia,Y98,3328
+2160,Trentino Alto Adige / Südtirol,Y98,403
+2161,Provincia Autonoma Bolzano / Bozen,Y98,167
+2162,Provincia Autonoma Trento,Y98,236
+2163,Veneto,Y98,1664
+2164,Friuli-Venezia Giulia,Y98,682
+2165,Emilia-Romagna,Y98,2008
+2166,Toscana,Y98,1681
+2167,Umbria,Y98,423
+2168,Marche,Y98,691
+2169,Lazio,Y98,1812
+2170,Abruzzo,Y98,526
+2171,Molise,Y98,162
+2172,Campania,Y98,1149
+2173,Puglia,Y98,1078
+2174,Basilicata,Y98,226
+2175,Calabria,Y98,567
+2176,Sicilia,Y98,1199
+2177,Sardegna,Y98,503
+2178,Sicilia,Y99,829
+2179,Sardegna,Y99,388
+2180,Piemonte,Y99,1008
+2181,Valle d'Aosta / Vallée d'Aoste,Y99,29
+2182,Liguria,Y99,547
+2183,Lombardia,Y99,2093
+2184,Trentino Alto Adige / Südtirol,Y99,268
+2185,Provincia Autonoma Bolzano / Bozen,Y99,103
+2186,Provincia Autonoma Trento,Y99,165
+2187,Veneto,Y99,1068
+2188,Friuli-Venezia Giulia,Y99,426
+2189,Emilia-Romagna,Y99,1289
+2190,Umbria,Y99,249
+2191,Marche,Y99,446
+2192,Lazio,Y99,1230
+2193,Abruzzo,Y99,332
+2194,Toscana,Y99,1098
+2195,Molise,Y99,97
+2196,Campania,Y99,783
+2197,Puglia,Y99,725
+2198,Basilicata,Y99,107
+2199,Calabria,Y99,409
+2200,Trentino Alto Adige / Südtirol,Y_GE100,218
+2201,Provincia Autonoma Bolzano / Bozen,Y_GE100,91
+2202,Provincia Autonoma Trento,Y_GE100,127
+2203,Veneto,Y_GE100,1142
+2204,Emilia-Romagna,Y_GE100,1415
+2205,Piemonte,Y_GE100,1096
+2206,Valle d'Aosta / Vallée d'Aoste,Y_GE100,30
+2207,Liguria,Y_GE100,633
+2208,Lombardia,Y_GE100,2318
+2209,Friuli-Venezia Giulia,Y_GE100,392
+2210,Toscana,Y_GE100,1044
+2211,Umbria,Y_GE100,278
+2212,Marche,Y_GE100,447
+2213,Lazio,Y_GE100,1417
+2214,Abruzzo,Y_GE100,393
+2215,Molise,Y_GE100,116
+2216,Campania,Y_GE100,908
+2217,Puglia,Y_GE100,882
+2218,Basilicata,Y_GE100,125
+2219,Calabria,Y_GE100,460
+2220,Sicilia,Y_GE100,1032
+2221,Sardegna,Y_GE100,458
