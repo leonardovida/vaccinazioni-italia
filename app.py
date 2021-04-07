@@ -4,9 +4,9 @@ import pandas as pd
 import requests
 import streamlit as st
 import urllib
-import tensorflow as tf
 
 import content
+import compute
 
 # Introduzione
 st.title("Quando verrò vaccinato? :syringe:")
@@ -127,7 +127,7 @@ try:
             "ETA1"])
         total_pop_over_18_no_age = total_pop_over_18_no_age.groupby(
             ["Territorio"]).sum()
-        st.write(total_pop_over_18_no_age)
+        # st.write(total_pop_over_18_no_age) # per regione
 
         # Population region over 18
         region_pop = total_pop.loc[total_pop["Territorio"] == region]
@@ -138,17 +138,29 @@ try:
         regional_max_vax_rate = 500000 * regional_share_vax
 
         # Calculate trend vaccinations per region
-        # using last 7 days
         vaccinations = df.loc[region]
         vaccinations.rename(columns={"data_somministrazione": "Data",
                                      "totale": "Vaccinazioni"}, inplace=True)
         vaccinations.sort_values(by='Data', ascending=False, inplace=True)
-        data_trend = vaccinations.head(7)
+        clean_vaccinations = compute.clean_dataset(vaccinations)
+        clean_vaccinations = compute.split_dataset(clean_vaccinations)
+        # Define the model name
+        forecast = compute.arima_forecast(clean_vaccinations)
+        st.write(forecast)
+
+    #     pyplot.legend()
+    # pyplot.title("Graph of full standard week having your date")
+    # pyplot.xlabel("(Weekdays)")
+    # pyplot.ylabel("(Units consumed)")
+    # st.pyplot()
 
         # Compute past trend of vaccinations and extrapolate to the future
         # Max:
         # - 500.000 / region adjusted for population
         # - population of region
+        # pred = compute.predict_trend_arima(vaccinations)
+        # pred = compute.predict_trend_lstm()
+        # st.write(pred)
 
         # Compute number of vaccinations for age interval
         # and category
@@ -157,17 +169,17 @@ try:
         # Calculate how many people are remaining before user
         st.write('Share region on total vaccinations', regional_share_vax)
         st.write('Max regional daily vaccinations: ', regional_max_vax_rate)
-        st.write(region_pop)
+        # st.write(region_pop) # popolazione per regione per anni
 
-        chart = (
-            alt.Chart(data_trend)
-            .mark_area(opacity=0.3)
-            .encode(
-                x="Data:T",
-                y="Vaccinazioni:Q",
-            )
-        )
-        st.altair_chart(chart, use_container_width=True)
+        # chart = (
+        #     alt.Chart(data_trend)
+        #     .mark_area(opacity=0.3)
+        #     .encode(
+        #         x="Data:T",
+        #         y="Vaccinazioni:Q",
+        #     )
+        # )
+        # st.altair_chart(chart, use_container_width=True)
 
 except urllib.error.URLError as e:
     st.error(

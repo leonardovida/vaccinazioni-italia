@@ -11,6 +11,11 @@ watchdog = "^2.0.2"
 requests = "^2.25.1"
 altair = "^4.1.0"
 tensorflow = "^2.4.1"
+matplotlib = "^3.4.1"
+Keras = "^2.4.3"
+sklearn = "^0.0"
+statsmodels = "^0.12.2"
+arrow = "^1.0.3"
 
 [tool.poetry.dev-dependencies]
 
